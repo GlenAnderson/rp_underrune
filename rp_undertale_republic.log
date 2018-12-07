@@ -8950,3 +8950,21 @@ Reduced 11538 texinfos to 8784
 Reduced 505 texdatas to 453 (16450 bytes to 14314)
 Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic.bsp
 12 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+material "concrete/blend_blacktop_01" not found.
+Material not found!: CONCRETE/BLEND_BLACKTOP_01
+"materials/saintblue/deus ex/unatco/texture/un_safe_2.vtf": cached version doesn't exist
+Can't find surfaceprop WoodWood_Lowdensity for material SAINTBLUE/TRUELAB/BOOKCASE, using default
+Brush 425072: MAX_MAP_BRUSHSIDES
+Side 5
+Texture: TOOLS/TOOLSTRIGGER
