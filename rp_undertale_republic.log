@@ -12,9 +12,113 @@ Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
 material "concrete/blend_blacktop_01" not found.
 Material not found!: CONCRETE/BLEND_BLACKTOP_01
 "materials/saintblue/deus ex/unatco/texture/un_safe_2.vtf": cached version doesn't exist
-Brush 162971: MAX_MAP_BRUSHSIDES
-Side 5
-Texture: SAINTBLUE/UNDYNESHOUSE/FRIDGECOLOR
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2292 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2916374 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12080 texinfos to 8645
+Reduced 591 texdatas to 519 (20914 bytes to 18174)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_undertale_republic.bsp
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_undertale_republic.bsp
+No vis information, direct lighting only.
+31308 faces
+53 degenerate faces
+10186269 square feet [1466822656.00 square inches]
+248 Displacements
+124728 Square Feet [17960916.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+472 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0851 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+56 of 58 (96% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 239/1024        11472/49152    (23.3%) 
+brushes               7805/8192        93660/98304    (95.3%) VERY FULL!
+brushsides           63588/65536      508704/524288   (97.0%) VERY FULL!
+planes               47212/65536      944240/1310720  (72.0%) 
+vertexes             55321/65536      663852/786432   (84.4%) VERY FULL!
+nodes                15871/65536      507872/2097152  (24.2%) 
+texinfos              8645/12288      622440/884736   (70.4%) 
+texdata                519/2048        16608/65536    (25.3%) 
+dispinfos              248/0           43648/0        ( 0.0%) 
+disp_verts           10848/0          216960/0        ( 0.0%) 
+disp_tris            15904/0           31808/0        ( 0.0%) 
+disp_lmsamples      202124/0          202124/0        ( 0.0%) 
+faces                31308/65536     1753248/3670016  (47.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19110/65536     1070160/3670016  (29.2%) 
+leaves               16111/65536      515552/2097152  (24.6%) 
+leaffaces            40288/65536       80576/131072   (61.5%) 
+leafbrushes          18304/65536       36608/131072   (27.9%) 
+areas                   23/256           184/2048     ( 9.0%) 
+surfedges           227834/512000     911336/2048000  (44.5%) 
+edges               139237/256000     556948/1024000  (54.4%) 
+LDR worldlights        472/8192        41536/720896   ( 5.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           3159/32768       31590/327680   ( 9.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         54930/65536      109860/131072   (83.8%) VERY FULL!
+cubemapsamples           6/1024           96/16384    ( 0.6%) 
+overlays                30/512         10560/180224   ( 5.9%) 
+LDR lightdata         [variable]    13935188/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      404123/393216   (102.8%) VERY FULL!
+LDR ambient table    16111/65536       64444/262144   (24.6%) 
+HDR ambient table    16111/65536       64444/262144   (24.6%) 
+LDR leaf ambient     55425/65536     1551900/1835008  (84.6%) VERY FULL!
+HDR leaf ambient     16111/65536      451108/1835008  (24.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/30456    ( 0.0%) 
+pakfile               [variable]      650140/0        ( 0.0%) 
+physics               [variable]     2916374/4194304  (69.5%) 
+physics terrain       [variable]       49616/1048576  ( 4.7%) 
+
+Level flags = 0
+
+Total triangle count: 87759
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_undertale_republic.bsp
+1 minute, 1 second elapsed
 
 
 
@@ -31,12 +135,7 @@ Material not found!: CONCRETE/BLEND_BLACKTOP_01
 "materials/saintblue/deus ex/unatco/texture/un_safe_2.vtf": cached version doesn't exist
 Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
 fixing up env_cubemap materials on brush sides...
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote D:\Workspace\Github Repositories\rp_undertale_republic\rp_undertale_republic.lin
-Areaportal leak ! File: D:\Workspace\Github Repositories\rp_undertale_republic\rp_undertale_republic.lin 
-Brush 101843: areaportal brush doesn't touch two areas
-
-Brush 101843: areaportal brush doesn't touch two areas
-done (0)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
 Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
 error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
 done (0)
@@ -60,10 +159,205 @@ Finding displacement neighbors...
 Finding lightmap sample positions...
 Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
 Building Physics collision data...
-done (1) (2916374 bytes)
+done (1) (2920066 bytes)
 Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
 Compacting texture/material tables...
-Reduced 12076 texinfos to 8644
+Reduced 12170 texinfos to 8683
 Reduced 591 texdatas to 519 (20914 bytes to 18174)
 Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_undertale_republic.bsp
-10 seconds elapsed
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_undertale_republic.bsp
+No vis information, direct lighting only.
+31497 faces
+57 degenerate faces
+10189604 square feet [1467302912.00 square inches]
+248 Displacements
+124728 Square Feet [17960916.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+482 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0804 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 64 (96% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 239/1024        11472/49152    (23.3%) 
+brushes               7816/8192        93792/98304    (95.4%) VERY FULL!
+brushsides           63713/65536      509704/524288   (97.2%) VERY FULL!
+planes               47414/65536      948280/1310720  (72.3%) 
+vertexes             55616/65536      667392/786432   (84.9%) VERY FULL!
+nodes                15960/65536      510720/2097152  (24.4%) 
+texinfos              8683/12288      625176/884736   (70.7%) 
+texdata                519/2048        16608/65536    (25.3%) 
+dispinfos              248/0           43648/0        ( 0.0%) 
+disp_verts           10848/0          216960/0        ( 0.0%) 
+disp_tris            15904/0           31808/0        ( 0.0%) 
+disp_lmsamples      202124/0          202124/0        ( 0.0%) 
+faces                31497/65536     1763832/3670016  (48.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19180/65536     1074080/3670016  (29.3%) 
+leaves               16200/65536      518400/2097152  (24.7%) 
+leaffaces            40507/65536       81014/131072   (61.8%) 
+leafbrushes          18413/65536       36826/131072   (28.1%) 
+areas                   23/256           184/2048     ( 9.0%) 
+surfedges           228961/512000     915844/2048000  (44.7%) 
+edges               139840/256000     559360/1024000  (54.6%) 
+LDR worldlights        482/8192        42416/720896   ( 5.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           3189/32768       31890/327680   ( 9.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         55449/65536      110898/131072   (84.6%) VERY FULL!
+cubemapsamples           6/1024           96/16384    ( 0.6%) 
+overlays                30/512         10560/180224   ( 5.9%) 
+LDR lightdata         [variable]    13933040/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      405831/393216   (103.2%) VERY FULL!
+LDR ambient table    16200/65536       64800/262144   (24.7%) 
+HDR ambient table    16200/65536       64800/262144   (24.7%) 
+LDR leaf ambient     55663/65536     1558564/1835008  (84.9%) VERY FULL!
+HDR leaf ambient     16200/65536      453600/1835008  (24.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/30456    ( 0.0%) 
+pakfile               [variable]      650140/0        ( 0.0%) 
+physics               [variable]     2920066/4194304  (69.6%) 
+physics terrain       [variable]       49616/1048576  ( 4.7%) 
+
+Level flags = 0
+
+Total triangle count: 88250
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_undertale_republic.bsp
+1 minute, 1 second elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+material "concrete/blend_blacktop_01" not found.
+Material not found!: CONCRETE/BLEND_BLACKTOP_01
+"materials/saintblue/deus ex/unatco/texture/un_safe_2.vtf": cached version doesn't exist
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2292 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2920066 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12170 texinfos to 8683
+Reduced 591 texdatas to 519 (20914 bytes to 18174)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_undertale_republic.bsp
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_undertale_republic.bsp
+No vis information, direct lighting only.
+31497 faces
+57 degenerate faces
+10189604 square feet [1467302912.00 square inches]
+248 Displacements
+124728 Square Feet [17960916.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+482 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0888 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+62 of 64 (96% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 239/1024        11472/49152    (23.3%) 
+brushes               7816/8192        93792/98304    (95.4%) VERY FULL!
+brushsides           63713/65536      509704/524288   (97.2%) VERY FULL!
+planes               47408/65536      948160/1310720  (72.3%) 
+vertexes             55616/65536      667392/786432   (84.9%) VERY FULL!
+nodes                15960/65536      510720/2097152  (24.4%) 
+texinfos              8683/12288      625176/884736   (70.7%) 
+texdata                519/2048        16608/65536    (25.3%) 
+dispinfos              248/0           43648/0        ( 0.0%) 
+disp_verts           10848/0          216960/0        ( 0.0%) 
+disp_tris            15904/0           31808/0        ( 0.0%) 
+disp_lmsamples      202124/0          202124/0        ( 0.0%) 
+faces                31497/65536     1763832/3670016  (48.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19180/65536     1074080/3670016  (29.3%) 
+leaves               16200/65536      518400/2097152  (24.7%) 
+leaffaces            40507/65536       81014/131072   (61.8%) 
+leafbrushes          18413/65536       36826/131072   (28.1%) 
+areas                   23/256           184/2048     ( 9.0%) 
+surfedges           228961/512000     915844/2048000  (44.7%) 
+edges               139840/256000     559360/1024000  (54.6%) 
+LDR worldlights        482/8192        42416/720896   ( 5.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           3189/32768       31890/327680   ( 9.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         55449/65536      110898/131072   (84.6%) VERY FULL!
+cubemapsamples           6/1024           96/16384    ( 0.6%) 
+overlays                30/512         10560/180224   ( 5.9%) 
+LDR lightdata         [variable]    13933040/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      405831/393216   (103.2%) VERY FULL!
+LDR ambient table    16200/65536       64800/262144   (24.7%) 
+HDR ambient table    16200/65536       64800/262144   (24.7%) 
+LDR leaf ambient     55663/65536     1558564/1835008  (84.9%) VERY FULL!
+HDR leaf ambient     16200/65536      453600/1835008  (24.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/30456    ( 0.0%) 
+pakfile               [variable]      650140/0        ( 0.0%) 
+physics               [variable]     2920066/4194304  (69.6%) 
+physics terrain       [variable]       49616/1048576  ( 4.7%) 
+
+Level flags = 0
+
+Total triangle count: 88250
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_undertale_republic.bsp
+1 minute, 1 second elapsed
