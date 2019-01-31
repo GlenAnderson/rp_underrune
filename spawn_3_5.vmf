@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8078"
-	"mapversion" "522"
+	"editorbuild" "8087"
+	"mapversion" "523"
 	"formatversion" "100"
 	"prefab" "1"
 }
@@ -17,7 +17,7 @@ viewsettings
 world
 {
 	"id" "431176"
-	"mapversion" "522"
+	"mapversion" "523"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -40987,7 +40987,7 @@ entity
 	"spawnpos" "0"
 	"speed" "20"
 	"startclosesound" "Streetwar.d3_c17_10b_doormove3"
-	"targetname" "watertower_door"
+	"targetname" "door_unown_spawn_watertower"
 	"unlocked_sentence" "0"
 	"wait" "10"
 	solid
@@ -41939,7 +41939,7 @@ entity
 		"OnPressed" "watertower_keypad_snd1,PlaySound,,0.2,-1"
 		"OnPressed" "watertower_keypad_snd1,PlaySound,,0.4,-1"
 		"OnPressed" "watertower_keypad_snd2,PlaySound,,1,-1"
-		"OnPressed" "watertower_door,Open,,2,-1"
+		"OnPressed" "door_unown_spawn_watertower,Open,,2,-1"
 		"OnPressed" "watertower_keypad_prop,Skin,1,1,-1"
 		"OnPressed" "watertower_keypad_prop,Skin,0,5,-1"
 	}
@@ -42126,7 +42126,7 @@ entity
 	"wait" "10"
 	connections
 	{
-		"OnPressed" "watertower_door,Open,,2,-1"
+		"OnPressed" "door_unown_spawn_watertower,Open,,2,-1"
 	}
 	solid
 	{
@@ -42238,7 +42238,7 @@ entity
 	"spawnpos" "0"
 	"speed" "20"
 	"startclosesound" "Streetwar.d3_c17_10b_doormove3"
-	"targetname" "watertower_door"
+	"targetname" "door_unown_spawn_watertower"
 	"unlocked_sentence" "0"
 	"wait" "10"
 	solid
@@ -45885,6 +45885,7 @@ entity
 	"spawnflags" "256"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "door_unown_spawn_trap"
 	"unlocked_sentence" "0"
 	"wait" "3"
 	solid
@@ -48652,6 +48653,7 @@ entity
 	"spawnflags" "1024"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "door_unown_spawn_tunnel_secret1"
 	"unlocked_sentence" "0"
 	"wait" "3"
 	solid
@@ -48763,6 +48765,7 @@ entity
 	"spawnflags" "1024"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "door_unown_spawn_tunnel_exit"
 	"unlocked_sentence" "0"
 	"wait" "3"
 	solid
@@ -48874,6 +48877,7 @@ entity
 	"spawnflags" "1024"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "door_unown_spawn_tunnel_secret2"
 	"unlocked_sentence" "0"
 	"wait" "3"
 	solid
@@ -50097,6 +50101,7 @@ entity
 	"spawnflags" "1024"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "door_unown_spawn_tunnel_entry1"
 	"unlocked_sentence" "0"
 	"wait" "3"
 	solid
@@ -50524,6 +50529,7 @@ entity
 	"spawnflags" "1024"
 	"spawnpos" "0"
 	"speed" "100"
+	"targetname" "door_unown_spawn_tunnel_entry2"
 	"unlocked_sentence" "0"
 	"wait" "3"
 	solid
@@ -56919,7 +56925,7 @@ entity
 	"spawnpos" "0"
 	"speed" "20"
 	"startclosesound" "half-life/doors/doormove3.wav"
-	"targetname" "elevatorutilitydoor"
+	"targetname" "door_unown_spawn_lab"
 	"unlocked_sentence" "0"
 	"wait" "5"
 	solid
@@ -59137,7 +59143,7 @@ entity
 	"spawnpos" "1"
 	"speed" "50"
 	"startclosesound" "half-life/doors/doormove4.wav"
-	"targetname" "door_up"
+	"targetname" "door_unown_elev_up"
 	"unlocked_sentence" "0"
 	"wait" "-1"
 	solid
@@ -63570,7 +63576,7 @@ entity
 		"OnTrigger" "elevator_redspr,ShowSprite,,2,-1"
 		"OnTrigger" "elevator_greenspr,HideSprite,,2,-1"
 		"OnTrigger" "elevator,Close,,2,-1"
-		"OnTrigger" "door_dn,Close,,0,-1"
+		"OnTrigger" "door_unown_elev_dn,Close,,0,-1"
 		"OnTrigger" "button_universal,Lock,,0,-1"
 		"OnTrigger" "button_up,Lock,,0,-1"
 		"OnTrigger" "button_dn,Lock,,0,-1"
@@ -63597,7 +63603,7 @@ entity
 		"OnTrigger" "elevator_redspr,ShowSprite,,2,-1"
 		"OnTrigger" "elevator_greenspr,HideSprite,,2,-1"
 		"OnTrigger" "elevator,Open,,2,-1"
-		"OnTrigger" "door_up,Close,,0,-1"
+		"OnTrigger" "door_unown_elev_up,Close,,0,-1"
 		"OnTrigger" "button_universal,Lock,,0,-1"
 		"OnTrigger" "button_up,Lock,,0,-1"
 		"OnTrigger" "button_dn,Lock,,0,-1"
@@ -64409,7 +64415,7 @@ entity
 		"OnPressed" "elevatorutilitydoorbuttonprop,SetAnimation,pressed,0.4,-1"
 		"OnPressed" "elevatorutilitydoorbuttonprop,SetAnimation,unpress,9.6,-1"
 		"OnPressed" "elevatorutilitydoorbuttonprop,SetAnimation,idle,10,-1"
-		"OnPressed" "elevatorutilitydoor,Open,,0,-1"
+		"OnPressed" "door_unown_spawn_lab,Open,,0,-1"
 		"OnPressed" "elevatorutilitydoorbuttonprop,Skin,0,10,-1"
 		"OnPressed" "elevatorutilitydoorbuttonprop,Skin,1,0,-1"
 		"OnPressed" "elevatorutilitydoorbuttonprop,SetAnimation,press,0,-1"
@@ -64582,7 +64588,7 @@ entity
 	"wait" "10"
 	connections
 	{
-		"OnPressed" "elevatorutilitydoor,Open,,0,-1"
+		"OnPressed" "door_unown_spawn_lab,Open,,0,-1"
 		"OnPressed" "elevatorutilitydoorbuttonsound2,PlaySound,,0,-1"
 		"OnPressed" "elevatorutilitydoorbutton2spritered,ToggleSprite,,0,-1"
 		"OnPressed" "elevatorutilitydoorbutton2spritegreen,ToggleSprite,,0,-1"
@@ -74555,7 +74561,7 @@ entity
 	"spawnpos" "1"
 	"speed" "50"
 	"startclosesound" "half-life/doors/doormove4.wav"
-	"targetname" "door_up"
+	"targetname" "door_unown_elev_up"
 	"unlocked_sentence" "0"
 	"wait" "-1"
 	solid
@@ -75048,7 +75054,7 @@ entity
 	"spawnpos" "0"
 	"speed" "50"
 	"startclosesound" "half-life/doors/doormove4.wav"
-	"targetname" "door_dn"
+	"targetname" "door_unown_elev_dn"
 	"unlocked_sentence" "0"
 	"wait" "-1"
 	solid
@@ -75541,7 +75547,7 @@ entity
 	"spawnpos" "0"
 	"speed" "50"
 	"startclosesound" "half-life/doors/doormove4.wav"
-	"targetname" "door_dn"
+	"targetname" "door_unown_elev_dn"
 	"unlocked_sentence" "0"
 	"wait" "-1"
 	solid
