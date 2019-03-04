@@ -33817,3 +33817,3200 @@ Level flags = 0
 Total triangle count: 90020
 Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
 2 minutes, 15 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 148 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (377293 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2077 texinfos to 795
+Reduced 135 texdatas to 123 (4385 bytes to 3849)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+1 second elapsed
+
+
+
+16 threads
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt
+ 366 portalclusters
+ 874 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 168 visible clusters (0.59%)
+Total clusters visible: 28336
+Average clusters visible: 77
+Building PAS...
+Average clusters audible: 176
+visdatasize:25470  compressed from 35136
+writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2759 faces
+172493 square feet [24839052.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2759 patches before subdivision
+19991 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2257570, max 591
+transfer lists:  17.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(271350, 183082, 200026)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(74291, 49574, 53785)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20460, 13060, 14996)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5990, 3565, 4274)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1876, 1033, 1292)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(648, 336, 423)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(264, 137, 164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(132, 74, 82)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(80, 51, 52)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(56, 39, 38)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(42, 31, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(33, 26, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(26, 21, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(21, 17, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(17, 14, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(14, 12, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(12, 10, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(10, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(8, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(7, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(4, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  87/1024         4176/49152    ( 8.5%) 
+brushes               1037/16384       12444/196608   ( 6.3%) 
+brushsides            6751/65536       54008/524288   (10.3%) 
+planes                2606/65536       52120/1310720  ( 4.0%) 
+vertexes              4911/65536       58932/786432   ( 7.5%) 
+nodes                 1651/65536       52832/2097152  ( 2.5%) 
+texinfos               795/12288       57240/884736   ( 6.5%) 
+texdata                123/2048         3936/65536    ( 6.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2759/65536      154504/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2041/65536      114296/3670016  ( 3.1%) 
+leaves                1739/65536       55648/2097152  ( 2.7%) 
+leaffaces             3285/65536        6570/131072   ( 5.0%) 
+leafbrushes           1652/65536        3304/131072   ( 2.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21338/512000      85352/2048000  ( 4.2%) 
+edges                13539/256000      54156/1024000  ( 5.3%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips            265/32768        2650/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4536/65536        9072/131072   ( 6.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2018732/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25470/16777216 ( 0.2%) 
+entdata               [variable]      157582/393216   (40.1%) 
+LDR ambient table     1739/65536        6956/262144   ( 2.7%) 
+HDR ambient table     1739/65536        6956/262144   ( 2.7%) 
+LDR leaf ambient      3207/65536       89796/1835008  ( 4.9%) 
+HDR leaf ambient      1739/65536       48692/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4674     ( 0.0%) 
+pakfile               [variable]      175798/0        ( 0.0%) 
+physics               [variable]      377293/4194304  ( 9.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7677
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2759 faces
+172493 square feet [24839052.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2759 patches before subdivision
+19991 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2257570, max 591
+transfer lists:  17.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(87159, 70837, 75315)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(25359, 21104, 22608)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7078, 5780, 6635)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2121, 1626, 1953)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(694, 475, 598)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(258, 152, 193)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(114, 58, 72)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(60, 30, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(37, 19, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 14, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(18, 12, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(13, 9, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(8, 6, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(7, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0045 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  87/1024         4176/49152    ( 8.5%) 
+brushes               1037/16384       12444/196608   ( 6.3%) 
+brushsides            6751/65536       54008/524288   (10.3%) 
+planes                2606/65536       52120/1310720  ( 4.0%) 
+vertexes              4911/65536       58932/786432   ( 7.5%) 
+nodes                 1651/65536       52832/2097152  ( 2.5%) 
+texinfos               795/12288       57240/884736   ( 6.5%) 
+texdata                123/2048         3936/65536    ( 6.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2759/65536      154504/3670016  ( 4.2%) 
+hdr faces             2759/65536      154504/3670016  ( 4.2%) 
+origfaces             2041/65536      114296/3670016  ( 3.1%) 
+leaves                1739/65536       55648/2097152  ( 2.7%) 
+leaffaces             3285/65536        6570/131072   ( 5.0%) 
+leafbrushes           1652/65536        3304/131072   ( 2.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21338/512000      85352/2048000  ( 4.2%) 
+edges                13539/256000      54156/1024000  ( 5.3%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights        228/8192        20064/720896   ( 2.8%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips            265/32768        2650/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4536/65536        9072/131072   ( 6.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2018732/0        ( 0.0%) 
+HDR lightdata         [variable]     2018732/0        ( 0.0%) 
+visdata               [variable]       25470/16777216 ( 0.2%) 
+entdata               [variable]      157582/393216   (40.1%) 
+LDR ambient table     1739/65536        6956/262144   ( 2.7%) 
+HDR ambient table     1739/65536        6956/262144   ( 2.7%) 
+LDR leaf ambient      3207/65536       89796/1835008  ( 4.9%) 
+HDR leaf ambient      3095/65536       86660/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4674     ( 0.0%) 
+pakfile               [variable]      175798/0        ( 0.0%) 
+physics               [variable]      377293/4194304  ( 9.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7677
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+4 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 148 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (377293 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2077 texinfos to 795
+Reduced 135 texdatas to 123 (4385 bytes to 3849)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+1 second elapsed
+
+
+
+16 threads
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt
+ 366 portalclusters
+ 874 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 172 visible clusters (0.61%)
+Total clusters visible: 28340
+Average clusters visible: 77
+Building PAS...
+Average clusters audible: 176
+visdatasize:25470  compressed from 35136
+writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2759 faces
+172493 square feet [24839052.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2759 patches before subdivision
+19991 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2257570, max 591
+transfer lists:  17.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(271350, 183082, 200026)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(74291, 49574, 53785)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20460, 13060, 14996)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5990, 3565, 4274)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1876, 1033, 1292)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(648, 336, 423)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(264, 137, 164)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(132, 74, 82)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(80, 51, 52)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(56, 39, 38)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(42, 31, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(33, 26, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(26, 21, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(21, 17, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(17, 14, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(14, 12, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(12, 10, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(10, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(8, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(7, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(4, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  87/1024         4176/49152    ( 8.5%) 
+brushes               1037/16384       12444/196608   ( 6.3%) 
+brushsides            6751/65536       54008/524288   (10.3%) 
+planes                2606/65536       52120/1310720  ( 4.0%) 
+vertexes              4911/65536       58932/786432   ( 7.5%) 
+nodes                 1651/65536       52832/2097152  ( 2.5%) 
+texinfos               795/12288       57240/884736   ( 6.5%) 
+texdata                123/2048         3936/65536    ( 6.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2759/65536      154504/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2041/65536      114296/3670016  ( 3.1%) 
+leaves                1739/65536       55648/2097152  ( 2.7%) 
+leaffaces             3285/65536        6570/131072   ( 5.0%) 
+leafbrushes           1652/65536        3304/131072   ( 2.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21338/512000      85352/2048000  ( 4.2%) 
+edges                13539/256000      54156/1024000  ( 5.3%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips            265/32768        2650/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4536/65536        9072/131072   ( 6.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2018732/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25470/16777216 ( 0.2%) 
+entdata               [variable]      157582/393216   (40.1%) 
+LDR ambient table     1739/65536        6956/262144   ( 2.7%) 
+HDR ambient table     1739/65536        6956/262144   ( 2.7%) 
+LDR leaf ambient      3207/65536       89796/1835008  ( 4.9%) 
+HDR leaf ambient      1739/65536       48692/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4674     ( 0.0%) 
+pakfile               [variable]      175798/0        ( 0.0%) 
+physics               [variable]      377293/4194304  ( 9.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7677
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2759 faces
+172493 square feet [24839052.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2759 patches before subdivision
+19991 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2257570, max 591
+transfer lists:  17.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(87159, 70837, 75315)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(25359, 21104, 22607)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7078, 5780, 6635)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2121, 1626, 1953)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(694, 475, 598)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(258, 152, 193)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(114, 58, 72)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(60, 30, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(37, 19, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 14, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(18, 12, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(13, 9, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(8, 6, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(7, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0045 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  87/1024         4176/49152    ( 8.5%) 
+brushes               1037/16384       12444/196608   ( 6.3%) 
+brushsides            6751/65536       54008/524288   (10.3%) 
+planes                2606/65536       52120/1310720  ( 4.0%) 
+vertexes              4911/65536       58932/786432   ( 7.5%) 
+nodes                 1651/65536       52832/2097152  ( 2.5%) 
+texinfos               795/12288       57240/884736   ( 6.5%) 
+texdata                123/2048         3936/65536    ( 6.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2759/65536      154504/3670016  ( 4.2%) 
+hdr faces             2759/65536      154504/3670016  ( 4.2%) 
+origfaces             2041/65536      114296/3670016  ( 3.1%) 
+leaves                1739/65536       55648/2097152  ( 2.7%) 
+leaffaces             3285/65536        6570/131072   ( 5.0%) 
+leafbrushes           1652/65536        3304/131072   ( 2.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21338/512000      85352/2048000  ( 4.2%) 
+edges                13539/256000      54156/1024000  ( 5.3%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights        228/8192        20064/720896   ( 2.8%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips            265/32768        2650/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4536/65536        9072/131072   ( 6.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2018732/0        ( 0.0%) 
+HDR lightdata         [variable]     2018732/0        ( 0.0%) 
+visdata               [variable]       25470/16777216 ( 0.2%) 
+entdata               [variable]      157582/393216   (40.1%) 
+LDR ambient table     1739/65536        6956/262144   ( 2.7%) 
+HDR ambient table     1739/65536        6956/262144   ( 2.7%) 
+LDR leaf ambient      3207/65536       89796/1835008  ( 4.9%) 
+HDR leaf ambient      3095/65536       86660/1835008  ( 4.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4674     ( 0.0%) 
+pakfile               [variable]      175798/0        ( 0.0%) 
+physics               [variable]      377293/4194304  ( 9.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7677
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+4 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 148 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (377293 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2077 texinfos to 795
+Reduced 135 texdatas to 123 (4385 bytes to 3849)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+1 second elapsed
+
+
+
+16 threads
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt
+ 357 portalclusters
+ 855 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 184 visible clusters (0.68%)
+Total clusters visible: 26945
+Average clusters visible: 75
+Building PAS...
+Average clusters audible: 172
+visdatasize:24356  compressed from 34272
+writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2761 faces
+172408 square feet [24826764.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2761 patches before subdivision
+20071 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2269497, max 591
+transfer lists:  17.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(271757, 183452, 200434)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(74363, 49635, 53851)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20476, 13072, 15010)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5995, 3569, 4279)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1879, 1035, 1295)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(650, 338, 425)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(265, 138, 166)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(133, 76, 83)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(81, 52, 53)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(57, 40, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(43, 32, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(33, 26, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(27, 22, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(22, 18, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(18, 15, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(14, 12, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(12, 10, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(10, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(8, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(7, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  87/1024         4176/49152    ( 8.5%) 
+brushes               1037/16384       12444/196608   ( 6.3%) 
+brushsides            6751/65536       54008/524288   (10.3%) 
+planes                2606/65536       52120/1310720  ( 4.0%) 
+vertexes              4918/65536       59016/786432   ( 7.5%) 
+nodes                 1643/65536       52576/2097152  ( 2.5%) 
+texinfos               795/12288       57240/884736   ( 6.5%) 
+texdata                123/2048         3936/65536    ( 6.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2761/65536      154616/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2039/65536      114184/3670016  ( 3.1%) 
+leaves                1731/65536       55392/2097152  ( 2.6%) 
+leaffaces             3278/65536        6556/131072   ( 5.0%) 
+leafbrushes           1656/65536        3312/131072   ( 2.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21350/512000      85400/2048000  ( 4.2%) 
+edges                13543/256000      54172/1024000  ( 5.3%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips            266/32768        2660/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4551/65536        9102/131072   ( 6.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2018312/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       24356/16777216 ( 0.1%) 
+entdata               [variable]      157582/393216   (40.1%) 
+LDR ambient table     1731/65536        6924/262144   ( 2.6%) 
+HDR ambient table     1731/65536        6924/262144   ( 2.6%) 
+LDR leaf ambient      3110/65536       87080/1835008  ( 4.7%) 
+HDR leaf ambient      1731/65536       48468/1835008  ( 2.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4674     ( 0.0%) 
+pakfile               [variable]      175798/0        ( 0.0%) 
+physics               [variable]      377293/4194304  ( 9.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7693
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2761 faces
+172408 square feet [24826764.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2761 patches before subdivision
+20071 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2269497, max 591
+transfer lists:  17.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(87205, 70878, 75362)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(25370, 21114, 22618)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7080, 5782, 6637)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2122, 1627, 1954)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(694, 476, 598)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(258, 152, 194)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(115, 59, 72)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(61, 30, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(37, 19, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 15, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(18, 12, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(14, 9, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(8, 6, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(7, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(4, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0044 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  87/1024         4176/49152    ( 8.5%) 
+brushes               1037/16384       12444/196608   ( 6.3%) 
+brushsides            6751/65536       54008/524288   (10.3%) 
+planes                2606/65536       52120/1310720  ( 4.0%) 
+vertexes              4918/65536       59016/786432   ( 7.5%) 
+nodes                 1643/65536       52576/2097152  ( 2.5%) 
+texinfos               795/12288       57240/884736   ( 6.5%) 
+texdata                123/2048         3936/65536    ( 6.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2761/65536      154616/3670016  ( 4.2%) 
+hdr faces             2761/65536      154616/3670016  ( 4.2%) 
+origfaces             2039/65536      114184/3670016  ( 3.1%) 
+leaves                1731/65536       55392/2097152  ( 2.6%) 
+leaffaces             3278/65536        6556/131072   ( 5.0%) 
+leafbrushes           1656/65536        3312/131072   ( 2.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21350/512000      85400/2048000  ( 4.2%) 
+edges                13543/256000      54172/1024000  ( 5.3%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights        228/8192        20064/720896   ( 2.8%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips            266/32768        2660/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4551/65536        9102/131072   ( 6.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2018312/0        ( 0.0%) 
+HDR lightdata         [variable]     2018312/0        ( 0.0%) 
+visdata               [variable]       24356/16777216 ( 0.1%) 
+entdata               [variable]      157582/393216   (40.1%) 
+LDR ambient table     1731/65536        6924/262144   ( 2.6%) 
+HDR ambient table     1731/65536        6924/262144   ( 2.6%) 
+LDR leaf ambient      3110/65536       87080/1835008  ( 4.7%) 
+HDR leaf ambient      2998/65536       83944/1835008  ( 4.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4674     ( 0.0%) 
+pakfile               [variable]      175798/0        ( 0.0%) 
+physics               [variable]      377293/4194304  ( 9.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7693
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+4 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 148 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (378997 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2098 texinfos to 806
+Reduced 135 texdatas to 123 (4385 bytes to 3849)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+1 second elapsed
+
+
+
+16 threads
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt
+ 364 portalclusters
+ 872 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 196 visible clusters (0.70%)
+Total clusters visible: 28088
+Average clusters visible: 77
+Building PAS...
+Average clusters audible: 176
+visdatasize:25690  compressed from 34944
+writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2787 faces
+172409 square feet [24827036.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2787 patches before subdivision
+20123 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2284617, max 591
+transfer lists:  17.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(272166, 183813, 200804)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(74463, 49707, 53921)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20501, 13086, 15022)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6002, 3571, 4281)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1881, 1036, 1295)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(651, 338, 425)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(265, 138, 166)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(133, 76, 83)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(81, 52, 53)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(57, 40, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(43, 32, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(33, 26, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(27, 22, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(22, 18, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(18, 15, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(14, 12, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(12, 10, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(10, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(8, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(7, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  87/1024         4176/49152    ( 8.5%) 
+brushes               1042/16384       12504/196608   ( 6.4%) 
+brushsides            6781/65536       54248/524288   (10.3%) 
+planes                2618/65536       52360/1310720  ( 4.0%) 
+vertexes              4950/65536       59400/786432   ( 7.6%) 
+nodes                 1658/65536       53056/2097152  ( 2.5%) 
+texinfos               806/12288       58032/884736   ( 6.6%) 
+texdata                123/2048         3936/65536    ( 6.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2787/65536      156072/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2052/65536      114912/3670016  ( 3.1%) 
+leaves                1746/65536       55872/2097152  ( 2.7%) 
+leaffaces             3311/65536        6622/131072   ( 5.1%) 
+leafbrushes           1672/65536        3344/131072   ( 2.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21522/512000      86088/2048000  ( 4.2%) 
+edges                13637/256000      54548/1024000  ( 5.3%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips            266/32768        2660/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4545/65536        9090/131072   ( 6.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2025440/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       25690/16777216 ( 0.2%) 
+entdata               [variable]      157583/393216   (40.1%) 
+LDR ambient table     1746/65536        6984/262144   ( 2.7%) 
+HDR ambient table     1746/65536        6984/262144   ( 2.7%) 
+LDR leaf ambient      3123/65536       87444/1835008  ( 4.8%) 
+HDR leaf ambient      1746/65536       48888/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4680     ( 0.0%) 
+pakfile               [variable]      175798/0        ( 0.0%) 
+physics               [variable]      378997/4194304  ( 9.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7761
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2787 faces
+172409 square feet [24827036.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2787 patches before subdivision
+20123 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2284617, max 591
+transfer lists:  17.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(87267, 70922, 75417)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(25392, 21126, 22632)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7086, 5784, 6639)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2123, 1628, 1954)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(695, 476, 598)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(258, 152, 194)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(115, 59, 72)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(61, 30, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(37, 19, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 15, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(18, 12, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(14, 9, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(8, 6, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(7, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(4, 4, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(4, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0045 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  87/1024         4176/49152    ( 8.5%) 
+brushes               1042/16384       12504/196608   ( 6.4%) 
+brushsides            6781/65536       54248/524288   (10.3%) 
+planes                2618/65536       52360/1310720  ( 4.0%) 
+vertexes              4950/65536       59400/786432   ( 7.6%) 
+nodes                 1658/65536       53056/2097152  ( 2.5%) 
+texinfos               806/12288       58032/884736   ( 6.6%) 
+texdata                123/2048         3936/65536    ( 6.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2787/65536      156072/3670016  ( 4.3%) 
+hdr faces             2787/65536      156072/3670016  ( 4.3%) 
+origfaces             2052/65536      114912/3670016  ( 3.1%) 
+leaves                1746/65536       55872/2097152  ( 2.7%) 
+leaffaces             3311/65536        6622/131072   ( 5.1%) 
+leafbrushes           1672/65536        3344/131072   ( 2.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21522/512000      86088/2048000  ( 4.2%) 
+edges                13637/256000      54548/1024000  ( 5.3%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights        228/8192        20064/720896   ( 2.8%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips            266/32768        2660/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4545/65536        9090/131072   ( 6.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2025440/0        ( 0.0%) 
+HDR lightdata         [variable]     2025440/0        ( 0.0%) 
+visdata               [variable]       25690/16777216 ( 0.2%) 
+entdata               [variable]      157583/393216   (40.1%) 
+LDR ambient table     1746/65536        6984/262144   ( 2.7%) 
+HDR ambient table     1746/65536        6984/262144   ( 2.7%) 
+LDR leaf ambient      3123/65536       87444/1835008  ( 4.8%) 
+HDR leaf ambient      3012/65536       84336/1835008  ( 4.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4680     ( 0.0%) 
+pakfile               [variable]      175798/0        ( 0.0%) 
+physics               [variable]      378997/4194304  ( 9.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7761
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+4 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity  (-2726.00 -1178.00 56.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 8704.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 7680.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 6144.0 4537.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 6656.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 6144.0 4537.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2989558 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 12208 texinfos to 8411
+Reduced 528 texdatas to 501 (15586 bytes to 14283)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+9 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_door (-5672.00 -2997.00 -205.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 8704.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 9216.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 9216.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 7680.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 6656.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 9216.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 9216.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 9216.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2300 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1951504 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8621 texinfos to 5848
+Reduced 315 texdatas to 291 (9390 bytes to 8234)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+6 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_door (-2696.00 -920.00 -104.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 8704.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 9216.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 9216.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 7680.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 6656.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 9216.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 9216.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 9216.0 1668.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2304 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1910830 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 8281 texinfos to 5755
+Reduced 319 texdatas to 295 (9503 bytes to 8347)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+5 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_door (-6276.00 -2960.00 -104.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 8704.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 7680.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 6144.0 4537.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 6656.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 6144.0 4537.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2404 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2796348 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12512 texinfos to 8350
+Reduced 659 texdatas to 572 (24698 bytes to 21352)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+11 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_door (-2696.00 -920.00 -104.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8092.0 0.0 -392.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7580.0 0.0 -392.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 -512.0 -392.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 0.0 -392.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 0.0 -392.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 0.0 -392.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 0.0 -392.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 0.0 -392.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2150 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1531252 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6198 texinfos to 4938
+Reduced 205 texdatas to 191 (5667 bytes to 4993)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+4 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light (-2452.00 -4608.00 -24.28) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8092.0 0.0 -438.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7580.0 0.0 -438.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 -512.0 -438.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 0.0 -438.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 0.0 -438.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 0.0 -438.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 0.0 -438.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 0.0 -438.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2150 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1530768 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6188 texinfos to 4934
+Reduced 205 texdatas to 191 (5667 bytes to 4993)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+4 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2150 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1530131 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6188 texinfos to 4874
+Reduced 205 texdatas to 190 (5667 bytes to 4963)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+4 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_door (-6276.00 -2960.00 -104.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 8704.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 7680.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 6144.0 4537.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 6656.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 6144.0 4537.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2404 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2795864 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12502 texinfos to 8346
+Reduced 659 texdatas to 572 (24698 bytes to 21352)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+11 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38462 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 191 texinfos to 109
+Reduced 12 texdatas to 12 (300 bytes to 300)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+0 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2150 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1530131 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6188 texinfos to 4874
+Reduced 205 texdatas to 190 (5667 bytes to 4963)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+4 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 26 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (149302 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 837 texinfos to 533
+Reduced 84 texdatas to 81 (2659 bytes to 2590)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+1 second elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 74 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (425741 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1943 texinfos to 1422
+Reduced 135 texdatas to 127 (4259 bytes to 3906)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17325 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 110 texinfos to 78
+Reduced 9 texdatas to 9 (230 bytes to 230)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+0 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12246.5 -705.0 12815.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 92488: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (253126 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 561 texinfos to 381
+Reduced 40 texdatas to 40 (881 bytes to 881)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+1 second elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 148 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (379917 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2111 texinfos to 813
+Reduced 134 texdatas to 124 (4360 bytes to 3878)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+1 second elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (2288 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3 texinfos to 1
+Reduced 1 texdatas to 1 (18 bytes to 18)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+0 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2176 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1679124 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7260 texinfos to 5404
+Reduced 308 texdatas to 264 (10231 bytes to 8840)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+6 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2250 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2104376 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9248 texinfos to 6843
+Reduced 452 texdatas to 392 (15992 bytes to 13660)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+8 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_door (-5672.00 -2997.00 -205.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 -512.0 3014.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8092.0 0.0 3014.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7580.0 0.0 3014.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6656.0 0.0 3014.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5632.0 0.0 3014.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 0.0 3014.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 0.0 3014.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 0.0 3014.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2250 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2143481 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9439 texinfos to 7023
+Reduced 457 texdatas to 399 (16119 bytes to 13850)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+8 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (38462 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 191 texinfos to 109
+Reduced 12 texdatas to 12 (300 bytes to 300)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+0 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2250 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2142371 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9439 texinfos to 6951
+Reduced 457 texdatas to 397 (16119 bytes to 13787)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+8 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_door (-6276.00 -2960.00 -104.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 8704.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 7680.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 9216.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 6656.0 4537.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 5629.8 3174.2)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15360.0 5629.8 12900.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 2404 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2794543 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12529 texinfos to 8378
+Reduced 676 texdatas to 588 (26216 bytes to 22754)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+11 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12246.5 -705.0 12815.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 92488: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2404 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2776809 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12419 texinfos to 8225
+Reduced 671 texdatas to 581 (26058 bytes to 22533)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+11 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13788.3 -2674.5 12815.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 92459: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2404 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2793905 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12525 texinfos to 8304
+Reduced 676 texdatas to 586 (26216 bytes to 22691)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+12 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13788.3 -2674.5 12815.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 92459: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2404 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2793905 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12525 texinfos to 8304
+Reduced 676 texdatas to 586 (26216 bytes to 22691)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+12 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "hankkits/misc/ruinsdoor03" not found.
+Material not found!: HANKKITS/MISC/RUINSDOOR03
+"materials/wood/mainstreet_woodsiding05a_tooltexture.vtf": cached version doesn't exist
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+Patching WVT material: maps/rp_undertale_republic/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13788.3 -2674.5 12815.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 92459: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 2404 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2793905 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12525 texinfos to 8304
+Reduced 676 texdatas to 586 (26216 bytes to 22691)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+12 seconds elapsed
+
+
+
+16 threads
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt
+7142 portalclusters
+23605 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 24333 visible clusters (1.17%)
+Total clusters visible: 2079910
+Average clusters visible: 291
+Building PAS...
+Average clusters audible: 946
+visdatasize:1796408  compressed from 12798464
+writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+24 minutes, 46 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+30332 faces
+44 degenerate faces
+10186560 square feet [1466864640.00 square inches]
+182 Displacements
+123737 Square Feet [17818248.00 Square Inches]
+30288 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+432190 patches after subdivision
+can't solve quadratic for light 128.000000 128.000000
+can't solve quadratic for light 400.000000 400.000000
+can't solve quadratic for light 400.000000 400.000000
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+613 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 53579399, max 2473
+transfer lists: 408.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1281702, 614202, 646470)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(484115, 162061, 133860)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(248490, 61328, 38128)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(146623, 29153, 11751)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(97427, 16365, 4088)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(69623, 10120, 1534)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(52938, 6623, 642)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(42117, 4470, 294)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(34726, 3075, 150)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(29388, 2141, 84)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(25361, 1506, 52)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(22203, 1067, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(19648, 760, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(17529, 545, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(15737, 393, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(14201, 284, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(12868, 206, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(11700, 151, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(10670, 110, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(9758, 81, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(8944, 60, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(8216, 44, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(7562, 33, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(6973, 24, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(6440, 18, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(5956, 13, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(5517, 10, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(5117, 8, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(4752, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(4417, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(4111, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(3829, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(3570, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(3331, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(3110, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(2907, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(2718, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(2543, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(2381, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(2230, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(2090, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(1960, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(1838, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(1725, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(1620, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(1521, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(1429, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(1343, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(1262, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(1187, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(1116, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(1050, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(988, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(930, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(875, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(824, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(776, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(731, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(688, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(648, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(611, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(576, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(543, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(512, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(482, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(455, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(429, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(404, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(382, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(360, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(340, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(320, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(302, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(285, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(269, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(254, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(240, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(226, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(214, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(202, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(190, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(180, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(170, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(151, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(143, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(135, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(128, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(121, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(114, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(108, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(102, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(96, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(91, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(86, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(81, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(77, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(72, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(68, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(65, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1316 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+80 of 81 (98% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 292/1024        14016/49152    (28.5%) 
+brushes               7441/16384       89292/196608   (45.4%) 
+brushsides           60964/65536      487712/524288   (93.0%) VERY FULL!
+planes               45890/65536      917800/1310720  (70.0%) 
+vertexes             53042/65536      636504/786432   (80.9%) VERY FULL!
+nodes                15503/65536      496096/2097152  (23.7%) 
+texinfos              8304/12288      597888/884736   (67.6%) 
+texdata                586/2048        18752/65536    (28.6%) 
+dispinfos              182/0           32032/0        ( 0.0%) 
+disp_verts            8414/0          168280/0        ( 0.0%) 
+disp_tris            12448/0           24896/0        ( 0.0%) 
+disp_lmsamples      218244/0          218244/0        ( 0.0%) 
+faces                30332/65536     1698592/3670016  (46.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            18432/65536     1032192/3670016  (28.1%) 
+leaves               15796/65536      505472/2097152  (24.1%) 
+leaffaces            38944/65536       77888/131072   (59.4%) 
+leafbrushes          16883/65536       33766/131072   (25.8%) 
+areas                   22/1024          176/8192     ( 2.1%) 
+surfedges           220602/512000     882408/2048000  (43.1%) 
+edges               134785/256000     539140/1024000  (52.7%) 
+LDR worldlights        613/8192        53944/720896   ( 7.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata           12/32768         144/393216   ( 0.0%) 
+waterstrips           3173/32768       31730/327680   ( 9.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         54969/65536      109938/131072   (83.9%) VERY FULL!
+cubemapsamples           6/1024           96/16384    ( 0.6%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]    14991324/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1796408/16777216 (10.7%) 
+entdata               [variable]      492894/393216   (125.3%) VERY FULL!
+LDR ambient table    15796/65536       63184/262144   (24.1%) 
+HDR ambient table    15796/65536       63184/262144   (24.1%) 
+LDR leaf ambient     53291/65536     1492148/1835008  (81.3%) VERY FULL!
+HDR leaf ambient     15796/65536      442288/1835008  (24.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22222    ( 0.0%) 
+pakfile               [variable]      674302/0        ( 0.0%) 
+physics               [variable]     2793905/4194304  (66.6%) 
+physics terrain       [variable]       37410/1048576  ( 3.6%) 
+
+Level flags = 0
+
+Total triangle count: 85266
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2 minutes, 8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+30332 faces
+44 degenerate faces
+10186560 square feet [1466864640.00 square inches]
+182 Displacements
+123737 Square Feet [17818248.00 Square Inches]
+30288 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+432190 patches after subdivision
+can't solve quadratic for light 128.000000 128.000000
+can't solve quadratic for light 400.000000 400.000000
+can't solve quadratic for light 400.000000 400.000000
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+613 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 53579399, max 2473
+transfer lists: 408.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1086561, 498946, 513578)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(432907, 133190, 101253)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(234596, 53962, 29509)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(142644, 27198, 9386)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(96220, 15802, 3384)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(69226, 9933, 1302)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(52786, 6543, 548)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(42045, 4424, 245)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(34681, 3043, 117)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(29357, 2116, 60)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(25336, 1485, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(22183, 1050, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(19632, 747, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(17515, 534, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(15726, 383, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(14192, 276, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(12860, 200, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(11693, 145, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(10665, 106, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(9753, 77, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(8941, 57, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(8213, 42, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(7559, 31, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(6971, 23, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(6438, 17, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(5955, 12, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(5516, 9, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(5116, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(4751, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(4417, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(4110, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(3829, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(3570, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(3331, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(3110, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(2907, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(2718, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(2543, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(2381, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(2230, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(2090, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(1960, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(1838, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(1725, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(1620, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(1521, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(1429, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(1343, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(1262, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(1187, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(1116, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(1050, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(988, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(930, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(875, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(824, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(776, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(731, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(688, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(648, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(611, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(576, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(543, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(512, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(482, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(455, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(429, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(404, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(382, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(360, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(340, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(320, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(302, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(285, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(269, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(254, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(240, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(226, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(214, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(202, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(190, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(180, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(170, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(160, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(151, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(143, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(135, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(128, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(121, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(114, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(108, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(102, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(96, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(91, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(86, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(81, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(77, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(72, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(68, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(65, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1425 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+80 of 81 (98% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 292/1024        14016/49152    (28.5%) 
+brushes               7441/16384       89292/196608   (45.4%) 
+brushsides           60964/65536      487712/524288   (93.0%) VERY FULL!
+planes               45890/65536      917800/1310720  (70.0%) 
+vertexes             53042/65536      636504/786432   (80.9%) VERY FULL!
+nodes                15503/65536      496096/2097152  (23.7%) 
+texinfos              8304/12288      597888/884736   (67.6%) 
+texdata                586/2048        18752/65536    (28.6%) 
+dispinfos              182/0           32032/0        ( 0.0%) 
+disp_verts            8414/0          168280/0        ( 0.0%) 
+disp_tris            12448/0           24896/0        ( 0.0%) 
+disp_lmsamples      218244/0          218244/0        ( 0.0%) 
+faces                30332/65536     1698592/3670016  (46.3%) 
+hdr faces            30332/65536     1698592/3670016  (46.3%) 
+origfaces            18432/65536     1032192/3670016  (28.1%) 
+leaves               15796/65536      505472/2097152  (24.1%) 
+leaffaces            38944/65536       77888/131072   (59.4%) 
+leafbrushes          16883/65536       33766/131072   (25.8%) 
+areas                   22/1024          176/8192     ( 2.1%) 
+surfedges           220602/512000     882408/2048000  (43.1%) 
+edges               134785/256000     539140/1024000  (52.7%) 
+LDR worldlights        613/8192        53944/720896   ( 7.5%) 
+HDR worldlights        613/8192        53944/720896   ( 7.5%) 
+leafwaterdata           12/32768         144/393216   ( 0.0%) 
+waterstrips           3173/32768       31730/327680   ( 9.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         54969/65536      109938/131072   (83.9%) VERY FULL!
+cubemapsamples           6/1024           96/16384    ( 0.6%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]    14991324/0        ( 0.0%) 
+HDR lightdata         [variable]    14991324/0        ( 0.0%) 
+visdata               [variable]     1796408/16777216 (10.7%) 
+entdata               [variable]      492894/393216   (125.3%) VERY FULL!
+LDR ambient table    15796/65536       63184/262144   (24.1%) 
+HDR ambient table    15796/65536       63184/262144   (24.1%) 
+LDR leaf ambient     53291/65536     1492148/1835008  (81.3%) VERY FULL!
+HDR leaf ambient     53086/65536     1486408/1835008  (81.0%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/22222    ( 0.0%) 
+pakfile               [variable]      674302/0        ( 0.0%) 
+physics               [variable]     2793905/4194304  (66.6%) 
+physics terrain       [variable]       37410/1048576  ( 3.6%) 
+
+Level flags = 0
+
+Total triangle count: 85266
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2 minutes, 9 seconds elapsed
