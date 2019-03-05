@@ -33818,6 +33818,7 @@ Total triangle count: 90020
 Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
 2 minutes, 15 seconds elapsed
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -40258,5 +40259,7 @@ Reduced 12147 texinfos to 7967
 Reduced 608 texdatas to 513 (22742 bytes to 18926)
 Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
 9 seconds elapsed
+=======
+>>>>>>> parent of 3ffc065... Refinements, render
 =======
 >>>>>>> parent of 3ffc065... Refinements, render
