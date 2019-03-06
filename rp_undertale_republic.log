@@ -34905,3 +34905,264 @@ Level flags = 0
 Total triangle count: 85615
 Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
 2 minutes, 10 seconds elapsed
+
+
+
+materialPath: A:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 242 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (378882 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2024 texinfos to 804
+Reduced 135 texdatas to 125 (4389 bytes to 3907)
+Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+reading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.prt
+ 379 portalclusters
+ 928 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 200 visible clusters (0.65%)
+Total clusters visible: 30551
+Average clusters visible: 80
+Building PAS...
+Average clusters audible: 181
+visdatasize:28325  compressed from 36384
+writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2741 faces
+165524 square feet [23835594.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2741 patches before subdivision
+21775 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2436497, max 543
+transfer lists:  18.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(309836, 192469, 208491)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(79783, 48416, 51254)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20808, 11804, 12898)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(5924, 3015, 3374)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1832, 834, 954)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(634, 272, 309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(262, 119, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(134, 72, 73)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(84, 52, 52)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(60, 42, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(46, 35, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(36, 29, 28)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(29, 24, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(24, 20, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(20, 17, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(17, 14, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(14, 12, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(11, 10, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(10, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(8, 7, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(7, 6, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(6, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(4, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0044 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  86/1024         4128/49152    ( 8.4%) 
+brushes               1044/16384       12528/196608   ( 6.4%) 
+brushsides            6688/65536       53504/524288   (10.2%) 
+planes                2418/65536       48360/1310720  ( 3.7%) 
+vertexes              4906/65536       58872/786432   ( 7.5%) 
+nodes                 1657/65536       53024/2097152  ( 2.5%) 
+texinfos               804/12288       57888/884736   ( 6.5%) 
+texdata                125/2048         4000/65536    ( 6.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2741/65536      153496/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2012/65536      112672/3670016  ( 3.1%) 
+leaves                1744/65536       55808/2097152  ( 2.7%) 
+leaffaces             3281/65536        6562/131072   ( 5.0%) 
+leafbrushes           1662/65536        3324/131072   ( 2.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21153/512000      84612/2048000  ( 4.1%) 
+edges                13429/256000      53716/1024000  ( 5.2%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips            260/32768        2600/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4350/65536        8700/131072   ( 6.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2009152/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       28325/16777216 ( 0.2%) 
+entdata               [variable]      158014/393216   (40.2%) 
+LDR ambient table     1744/65536        6976/262144   ( 2.7%) 
+HDR ambient table     1744/65536        6976/262144   ( 2.7%) 
+LDR leaf ambient      3319/65536       92932/1835008  ( 5.1%) 
+HDR leaf ambient      1744/65536       48832/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4680     ( 0.0%) 
+pakfile               [variable]      175798/0        ( 0.0%) 
+physics               [variable]      378882/4194304  ( 9.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7645
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+2741 faces
+165524 square feet [23835594.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2741 patches before subdivision
+21775 patches after subdivision
+228 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2436497, max 543
+transfer lists:  18.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(94090, 72074, 76368)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(25538, 19980, 20895)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(6679, 5058, 5518)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1927, 1334, 1491)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(621, 371, 425)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(233, 118, 134)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(106, 48, 53)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(58, 27, 28)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(37, 19, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(25, 15, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(19, 12, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(14, 10, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(11, 8, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(9, 7, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(7, 6, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(6, 5, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(5, 4, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(4, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(3, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(2, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(2, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0047 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  86/1024         4128/49152    ( 8.4%) 
+brushes               1044/16384       12528/196608   ( 6.4%) 
+brushsides            6688/65536       53504/524288   (10.2%) 
+planes                2418/65536       48360/1310720  ( 3.7%) 
+vertexes              4906/65536       58872/786432   ( 7.5%) 
+nodes                 1657/65536       53024/2097152  ( 2.5%) 
+texinfos               804/12288       57888/884736   ( 6.5%) 
+texdata                125/2048         4000/65536    ( 6.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2741/65536      153496/3670016  ( 4.2%) 
+hdr faces             2741/65536      153496/3670016  ( 4.2%) 
+origfaces             2012/65536      112672/3670016  ( 3.1%) 
+leaves                1744/65536       55808/2097152  ( 2.7%) 
+leaffaces             3281/65536        6562/131072   ( 5.0%) 
+leafbrushes           1662/65536        3324/131072   ( 2.5%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            21153/512000      84612/2048000  ( 4.1%) 
+edges                13429/256000      53716/1024000  ( 5.2%) 
+LDR worldlights        228/8192        20064/720896   ( 2.8%) 
+HDR worldlights        228/8192        20064/720896   ( 2.8%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips            260/32768        2600/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4350/65536        8700/131072   ( 6.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2009152/0        ( 0.0%) 
+HDR lightdata         [variable]     2009152/0        ( 0.0%) 
+visdata               [variable]       28325/16777216 ( 0.2%) 
+entdata               [variable]      158014/393216   (40.2%) 
+LDR ambient table     1744/65536        6976/262144   ( 2.7%) 
+HDR ambient table     1744/65536        6976/262144   ( 2.7%) 
+LDR leaf ambient      3319/65536       92932/1835008  ( 5.1%) 
+HDR leaf ambient      3172/65536       88816/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4680     ( 0.0%) 
+pakfile               [variable]      175798/0        ( 0.0%) 
+physics               [variable]      378882/4194304  ( 9.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7645
+Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
+4 seconds elapsed
