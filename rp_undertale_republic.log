@@ -34029,6 +34029,7 @@ Reduced 12696 texinfos to 8325
 Reduced 642 texdatas to 553 (23353 bytes to 20008)
 Writing A:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
 12 seconds elapsed
+<<<<<<< HEAD
 
 
 
@@ -67318,3 +67319,5 @@ Level flags = 0
 Total triangle count: 77625
 Writing a:\republic-community\garrys-mod\hammer\maps\rp_undertale_republic\rp_undertale_republic.bsp
 1 minute, 55 seconds elapsed
+=======
+>>>>>>> parent of 0ac05a9... Fixed, render
