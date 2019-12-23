@@ -1,0 +1,2036 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+material "realworldtextures2/ground/lava_magma_05" not found.
+Material not found!: REALWORLDTEXTURES2/GROUND/LAVA_MAGMA_05
+material "realworldtextures2/concrete/ground/concrete_09" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/GROUND/CONCRETE_09
+material "realworldtextures2/metal/metal_125" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_125
+material "realworldtextures2/metal/metal_71" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_71
+material "realworldtextures2/wall/brick_wall_53" not found.
+Material not found!: REALWORLDTEXTURES2/WALL/BRICK_WALL_53
+material "realworldtextures2/concrete/ground/concrete_04" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/GROUND/CONCRETE_04
+material "realworldtextures2/metal/floor/metal_92_reflective" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/FLOOR/METAL_92_REFLECTIVE
+material "realworldtextures2/metal/metal_99" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_99
+material "realworldtextures2/wall/plaster_wall_24" not found.
+Material not found!: REALWORLDTEXTURES2/WALL/PLASTER_WALL_24
+material "realworldtextures2/tile/tile_15" not found.
+Material not found!: REALWORLDTEXTURES2/TILE/TILE_15
+material "realworldtextures2/tile/tile_44" not found.
+Material not found!: REALWORLDTEXTURES2/TILE/TILE_44
+material "realworldtextures2/wood/wood_01" not found.
+Material not found!: REALWORLDTEXTURES2/WOOD/WOOD_01
+material "realworldtextures2/concrete/concrete_40" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/CONCRETE_40
+material "realworldtextures2/metal/wall/metal_25" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/WALL/METAL_25
+material "realworldtextures2/ceiling/ceiling_07" not found.
+Material not found!: REALWORLDTEXTURES2/CEILING/CEILING_07
+material "realworldtextures2/metal/metal_100" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_100
+material "realworldtextures2/wood/wood_107" not found.
+Material not found!: REALWORLDTEXTURES2/WOOD/WOOD_107
+material "realworldtextures2/concrete/ground/concrete_05" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/GROUND/CONCRETE_05
+material "realworldtextures2/concrete/ground/concrete_02" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/GROUND/CONCRETE_02
+material "republic/decals/orb2" not found.
+Material not found!: REPUBLIC/DECALS/ORB2
+material "republic/decals/orb" not found.
+Material not found!: REPUBLIC/DECALS/ORB
+material "republic/decals/orb3" not found.
+Material not found!: REPUBLIC/DECALS/ORB3
+material "realworldtextures2/metal/metal_97" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_97
+material "realworldtextures2/ceiling/ceiling_06" not found.
+Material not found!: REALWORLDTEXTURES2/CEILING/CEILING_06
+material "realworldtextures2/wall/plaster_wall_03" not found.
+Material not found!: REALWORLDTEXTURES2/WALL/PLASTER_WALL_03
+material "realworldtextures2/wall/plaster_wall_07" not found.
+Material not found!: REALWORLDTEXTURES2/WALL/PLASTER_WALL_07
+material "realworldtextures2/wall/brick_wall_54" not found.
+Material not found!: REALWORLDTEXTURES2/WALL/BRICK_WALL_54
+material "realworldtextures2/wall/plaster_wall_11" not found.
+Material not found!: REALWORLDTEXTURES2/WALL/PLASTER_WALL_11
+material "realworldtextures2/ground/carpet_34" not found.
+Material not found!: REALWORLDTEXTURES2/GROUND/CARPET_34
+material "realworldtextures2/concrete/concrete_39" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/CONCRETE_39
+material "realworldtextures2/tile/tile_30" not found.
+Material not found!: REALWORLDTEXTURES2/TILE/TILE_30
+material "realworldtextures2/metal/floor/metal_92" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/FLOOR/METAL_92
+material "realworldtextures2/ceiling/ceiling_04" not found.
+Material not found!: REALWORLDTEXTURES2/CEILING/CEILING_04
+material "realworldtextures2/wall/plaster_wall_01" not found.
+Material not found!: REALWORLDTEXTURES2/WALL/PLASTER_WALL_01
+material "realworldtextures2/ceiling/ceiling_05" not found.
+Material not found!: REALWORLDTEXTURES2/CEILING/CEILING_05
+material "realworldtextures2/metal/metal_98" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_98
+material "realworldtextures2/metal/metal_13" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_13
+material "realworldtextures2/metal/metal_12" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_12
+material "realworldtextures2/concrete/wall/concrete_wall_16" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/WALL/CONCRETE_WALL_16
+material "realworldtextures2/concrete/concrete_41" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/CONCRETE_41
+material "realworldtextures2/concrete/concrete_56" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/CONCRETE_56
+material "realworldtextures2/concrete/concrete_37" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/CONCRETE_37
+material "realworldtextures2/ground/carpet_29" not found.
+Material not found!: REALWORLDTEXTURES2/GROUND/CARPET_29
+material "realworldtextures2/ground/carpet_13" not found.
+Material not found!: REALWORLDTEXTURES2/GROUND/CARPET_13
+material "realworldtextures2/tile/tile_31" not found.
+Material not found!: REALWORLDTEXTURES2/TILE/TILE_31
+material "realworldtextures2/wood/wood_03" not found.
+Material not found!: REALWORLDTEXTURES2/WOOD/WOOD_03
+material "realworldtextures2/glass/glass_refract_03" not found.
+Material not found!: REALWORLDTEXTURES2/GLASS/GLASS_REFRACT_03
+material "realworldtextures2/tile/tile_29" not found.
+Material not found!: REALWORLDTEXTURES2/TILE/TILE_29
+material "realworldtextures2/concrete/concrete_42" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/CONCRETE_42
+material "realworldtextures2/glass/glass_refract_06" not found.
+Material not found!: REALWORLDTEXTURES2/GLASS/GLASS_REFRACT_06
+material "realworldtextures2/wall/plaster_wall_05" not found.
+Material not found!: REALWORLDTEXTURES2/WALL/PLASTER_WALL_05
+material "realworldtextures2/wall/plaster_wall_15" not found.
+Material not found!: REALWORLDTEXTURES2/WALL/PLASTER_WALL_15
+material "realworldtextures2/metal/metal_76" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_76
+material "realworldtextures2/metal/metal_69" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_69
+material "republic/decals/propaganda" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA
+material "republic/decals/propaganda-2" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-2
+material "hl2_beta/decal_signroute007d" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007D
+material "realworldtextures2/ground/dirt_02" not found.
+Material not found!: REALWORLDTEXTURES2/GROUND/DIRT_02
+material "realworldtextures2/wall/wallpaper_53" not found.
+Material not found!: REALWORLDTEXTURES2/WALL/WALLPAPER_53
+material "realworldtextures2/ground/carpet_27" not found.
+Material not found!: REALWORLDTEXTURES2/GROUND/CARPET_27
+material "realworldtextures2/concrete/concrete_59" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/CONCRETE_59
+material "hl2_beta/decal_signroute007c" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007C
+material "hl2_beta/decal_signroute007b" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007B
+material "hl2_beta/decal_signroute007a" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007A
+material "realworldtextures2/concrete/ground/concrete_07" not found.
+Material not found!: REALWORLDTEXTURES2/CONCRETE/GROUND/CONCRETE_07
+material "realworldtextures2/wood/wood_02" not found.
+Material not found!: REALWORLDTEXTURES2/WOOD/WOOD_02
+material "realworldtextures2/metal/metal_188" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_188
+material "realworldtextures2/metal/wall/metal_23" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/WALL/METAL_23
+material "realworldtextures2/metal/wall/metal_22" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/WALL/METAL_22
+material "halflife/lab1_cmpm2000" not found.
+Material not found!: HALFLIFE/LAB1_CMPM2000
+material "realworldtextures2/metal/wall/metal_51" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/WALL/METAL_51
+material "realworldtextures2/metal/metal_101" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_101
+material "realworldtextures2/metal/wall/metal_58" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/WALL/METAL_58
+material "realworldtextures2/metal/wall/metal_52" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/WALL/METAL_52
+material "realworldtextures2/metal/metal_103" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_103
+material "realworldtextures2/metal/metal_08" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_08
+material "realworldtextures2/metal/metal_14" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_14
+material "realworldtextures2/metal/floor/metal_150" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/FLOOR/METAL_150
+material "realworldtextures2/metal/metal_161" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_161
+material "realworldtextures2/wood/wood_116" not found.
+Material not found!: REALWORLDTEXTURES2/WOOD/WOOD_116
+material "realworldtextures2/metal/wall/metal_63" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/WALL/METAL_63
+material "realworldtextures2/metal/metal_15" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_15
+material "halflife/lab1_cmpm6" not found.
+Material not found!: HALFLIFE/LAB1_CMPM6
+material "realworldtextures2/metal/metal_109" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/METAL_109
+material "republic/decals/propaganda-7" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-7
+material "republic/decals/propaganda-3" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-3
+material "republic/decals/propaganda-4" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-4
+material "republic/decals/propaganda-5" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-5
+material "republic/decals/great-seal" not found.
+Material not found!: REPUBLIC/DECALS/GREAT-SEAL
+material "realworldtextures2/metal/wall/metal_45" not found.
+Material not found!: REALWORLDTEXTURES2/METAL/WALL/METAL_45
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12246.5 -705.0 12815.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 92488: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 2172 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2874589 bytes)
+Error loading studio model STATIC "models/custom_models/lights/light22.mdl"!
+Error loading studio model STATIC "models/custom_models/lights/light12.mdl"!
+Error loading studio model STATIC "models/custom_models/lights/light30.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12344 texinfos to 8274
+Reduced 564 texdatas to 501 (18943 bytes to 16657)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.bsp
+13 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+material "republic/decals/orb2" not found.
+Material not found!: REPUBLIC/DECALS/ORB2
+material "republic/decals/orb" not found.
+Material not found!: REPUBLIC/DECALS/ORB
+material "republic/decals/orb3" not found.
+Material not found!: REPUBLIC/DECALS/ORB3
+material "republic/decals/propaganda" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA
+material "republic/decals/propaganda-2" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-2
+material "hl2_beta/decal_signroute007d" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007D
+material "hl2_beta/decal_signroute007c" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007C
+material "hl2_beta/decal_signroute007b" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007B
+material "hl2_beta/decal_signroute007a" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007A
+material "republic/decals/propaganda-7" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-7
+material "republic/decals/propaganda-3" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-3
+material "republic/decals/propaganda-4" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-4
+material "republic/decals/propaganda-5" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-5
+material "republic/decals/great-seal" not found.
+Material not found!: REPUBLIC/DECALS/GREAT-SEAL
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12246.5 -705.0 12815.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 92488: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2172 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2875085 bytes)
+Error loading studio model STATIC "models/custom_models/lights/light22.mdl"!
+Error loading studio model STATIC "models/custom_models/lights/light12.mdl"!
+Error loading studio model STATIC "models/custom_models/lights/light30.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12679 texinfos to 8341
+Reduced 612 texdatas to 524 (22307 bytes to 19112)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.bsp
+10 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+material "republic/decals/orb2" not found.
+Material not found!: REPUBLIC/DECALS/ORB2
+material "republic/decals/orb" not found.
+Material not found!: REPUBLIC/DECALS/ORB
+material "republic/decals/orb3" not found.
+Material not found!: REPUBLIC/DECALS/ORB3
+material "republic/decals/propaganda" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA
+material "republic/decals/propaganda-2" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-2
+material "hl2_beta/decal_signroute007d" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007D
+material "hl2_beta/decal_signroute007c" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007C
+material "hl2_beta/decal_signroute007b" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007B
+material "hl2_beta/decal_signroute007a" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007A
+material "republic/decals/propaganda-7" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-7
+material "republic/decals/propaganda-3" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-3
+material "republic/decals/propaganda-4" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-4
+material "republic/decals/propaganda-5" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-5
+material "republic/decals/great-seal" not found.
+Material not found!: REPUBLIC/DECALS/GREAT-SEAL
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12246.5 -705.0 12815.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 92488: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2172 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2875085 bytes)
+Error loading studio model STATIC "models/custom_models/lights/light22.mdl"!
+Error loading studio model STATIC "models/custom_models/lights/light12.mdl"!
+Error loading studio model STATIC "models/custom_models/lights/light30.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12679 texinfos to 8341
+Reduced 612 texdatas to 524 (22307 bytes to 19112)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+reading d:\workspace\github repositories\rp_undertale_republic\rp_underrune.prt
+7189 portalclusters
+23087 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 554654 visible clusters (8.55%)
+Total clusters visible: 6488789
+Average clusters visible: 902
+Building PAS...
+Average clusters audible: 1596
+visdatasize:2962140  compressed from 12997712
+writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+PREP OK
+31092 faces
+53 degenerate faces
+10166297 square feet [1463946752.00 square inches]
+229 Displacements
+124411 Square Feet [17915190.00 Square Inches]
+31039 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+435091 patches after subdivision
+can't solve quadratic for light 128.000000 128.000000
+can't solve quadratic for light 400.000000 400.000000
+can't solve quadratic for light 400.000000 400.000000
+608 direct lights
+0.
+WARNING: Too many light styles on a face at (4668.000488, 1458.000000, -63.000000)
+
+WARNING: Too many light styles on a face at (4660.000000, 1502.000610, -63.000000)
+..1
+WARNING: Too many light styles on a face at (4665.000000, 1458.000000, -55.999313)
+...2...3...4...
+WARNING: Too many light styles on a face at (4584.000488, 1312.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4600.000488, 1328.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4584.000488, 1488.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4760.000977, 1392.001221, 27.000000)
+5
+WARNING: Too many light styles on a face at (4497.000000, 1139.000610, -49.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1178.750000, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1264.001221, 20.027649)
+
+WARNING: Too many light styles on a face at (4497.000000, 1497.150024, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1342.950073, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1498.150024, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1179.750000, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1342.950073, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1495.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1485.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1475.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1335.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1345.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1315.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1325.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1305.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1175.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1165.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1155.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1145.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1185.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1505.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1295.000000, -12.799240)
+
+WARNING: Too many light styles on a face at (4497.000000, 1349.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1189.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1615.000000, -12.799240)
+
+WARNING: Too many light styles on a face at (4497.000000, 1509.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4760.000977, 1384.001221, -95.000000)
+
+WARNING: Too many light styles on a face at (4584.000977, 1113.000000, -11.944698)
+
+WARNING: Too many light styles on a face at (4584.000977, 1113.000000, -33.972347)
+.
+WARNING: Too many light styles on a face at (4490.000000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1160.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1167.050049, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1167.050049, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1180.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1480.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1480.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1490.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1490.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4496.000000, 1500.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1493.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1480.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1470.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1297.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4495.500000, 1317.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4494.000000, 1317.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4494.000000, 1337.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1337.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1340.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1327.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1327.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1333.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1320.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1307.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1307.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1310.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1302.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4495.500000, 1137.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4494.000000, 1157.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1157.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1180.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1173.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1160.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1150.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1142.000610, -17.999313)
+..6...7.
+WARNING: Too many light styles on a face at (1433.000000, 1016.000000, 176.000000)
+..8...9..
+WARNING: Too many light styles on a face at (4492.009766, 1298.776733, -17.481686)
+.100...1...2...3...4...5...6...7...8...9...10transfers 61132232, max 3185
+transfer lists: 466.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1337172, 640509, 657816)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(495087, 164637, 129704)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(250567, 60682, 33702)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(146956, 28550, 9174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(98220, 16034, 2664)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(70918, 10016, 807)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(54641, 6628, 267)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(44008, 4525, 103)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(36692, 3144, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(31336, 2210, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27250, 1566, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(24003, 1116, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(21349, 800, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(19126, 576, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(17232, 416, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(15595, 302, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(14168, 220, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(12909, 161, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(11796, 118, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(10807, 86, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(9920, 64, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(9126, 47, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(8409, 35, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(7762, 26, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(7176, 19, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(6644, 14, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(6159, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(5717, 8, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(5313, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(4942, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(4602, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(4289, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(4001, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(3735, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(3490, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(3263, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(3052, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(2857, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(2676, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(2508, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(2352, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(2206, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(2070, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(1944, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(1825, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(1715, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(1612, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(1515, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(1425, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(1340, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(1261, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(1187, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(1117, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(1052, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(990, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(933, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(879, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(828, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(780, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(736, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(693, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(654, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(616, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(581, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(548, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(517, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(488, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(460, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(434, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(410, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(387, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(365, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(345, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(325, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(307, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(290, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(274, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(259, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(244, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(231, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(218, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(206, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(194, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(184, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(173, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(164, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(155, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(146, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(138, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(131, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(123, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(117, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(110, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(104, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(99, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(93, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(88, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(83, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(79, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(74, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0990 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+61 of 62 (98% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 260/1024        12480/49152    (25.4%) 
+brushes               7755/16384       93060/196608   (47.3%) 
+brushsides           62693/65536      501544/524288   (95.7%) VERY FULL!
+planes               44488/65536      889760/1310720  (67.9%) 
+vertexes             53640/65536      643680/786432   (81.8%) VERY FULL!
+nodes                15252/65536      488064/2097152  (23.3%) 
+texinfos              8341/12288      600552/884736   (67.9%) 
+texdata                524/2048        16768/65536    (25.6%) 
+dispinfos              229/0           40304/0        ( 0.0%) 
+disp_verts           10149/0          202980/0        ( 0.0%) 
+disp_tris            14912/0           29824/0        ( 0.0%) 
+disp_lmsamples      186824/0          186824/0        ( 0.0%) 
+faces                31092/65536     1741152/3670016  (47.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            18757/65536     1050392/3670016  (28.6%) 
+leaves               15513/65536      496416/2097152  (23.7%) 
+leaffaces            39331/65536       78662/131072   (60.0%) 
+leafbrushes          17499/65536       34998/131072   (26.7%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges           225233/512000     900932/2048000  (44.0%) 
+edges               138405/256000     553620/1024000  (54.1%) 
+LDR worldlights        608/8192        53504/720896   ( 7.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata           11/32768         132/393216   ( 0.0%) 
+waterstrips           3109/32768       31090/327680   ( 9.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         55011/65536      110022/131072   (83.9%) VERY FULL!
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]    15888328/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2962140/16777216 (17.7%) 
+entdata               [variable]      516797/393216   (131.4%) VERY FULL!
+LDR ambient table    15513/65536       62052/262144   (23.7%) 
+HDR ambient table    15513/65536       62052/262144   (23.7%) 
+LDR leaf ambient     54263/65536     1519364/1835008  (82.8%) VERY FULL!
+HDR leaf ambient     15513/65536      434364/1835008  (23.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/30456    ( 0.0%) 
+pakfile               [variable]      579360/0        ( 0.0%) 
+physics               [variable]     2875085/4194304  (68.5%) 
+physics terrain       [variable]       46187/1048576  ( 4.4%) 
+
+Level flags = 0
+
+Total triangle count: 87245
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+2 minutes, 6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+PREP OK
+31092 faces
+53 degenerate faces
+10166297 square feet [1463946752.00 square inches]
+229 Displacements
+124411 Square Feet [17915190.00 Square Inches]
+31039 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+435091 patches after subdivision
+can't solve quadratic for light 128.000000 128.000000
+can't solve quadratic for light 400.000000 400.000000
+can't solve quadratic for light 400.000000 400.000000
+608 direct lights
+0.
+WARNING: Too many light styles on a face at (4668.000488, 1458.000000, -63.000000)
+
+WARNING: Too many light styles on a face at (4660.000000, 1502.000610, -63.000000)
+..1
+WARNING: Too many light styles on a face at (4665.000000, 1458.000000, -55.999313)
+...2...3...4...
+WARNING: Too many light styles on a face at (4584.000488, 1312.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4600.000488, 1328.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4584.000488, 1488.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4760.000977, 1392.001221, 27.000000)
+5
+WARNING: Too many light styles on a face at (4497.000000, 1139.000610, -49.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1178.750000, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1497.150024, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1264.001221, 20.027649)
+
+WARNING: Too many light styles on a face at (4497.000000, 1342.950073, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1498.150024, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1342.950073, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1179.750000, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1495.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1485.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1475.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1345.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1335.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1325.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1315.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1305.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1175.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1165.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1155.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1145.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1185.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1505.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1349.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1295.000000, -12.799240)
+
+WARNING: Too many light styles on a face at (4497.000000, 1189.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1615.000000, -12.799240)
+
+WARNING: Too many light styles on a face at (4497.000000, 1509.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4760.000977, 1384.001221, -95.000000)
+
+WARNING: Too many light styles on a face at (4584.000977, 1113.000000, -11.944698)
+
+WARNING: Too many light styles on a face at (4584.000977, 1113.000000, -33.972347)
+.
+WARNING: Too many light styles on a face at (4490.000000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1160.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1167.050049, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1167.050049, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1180.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1480.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1480.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1490.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1490.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4496.000000, 1500.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1493.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1480.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1470.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1297.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4495.500000, 1317.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4494.000000, 1317.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4494.000000, 1337.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1337.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1340.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1327.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1327.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1333.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1320.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1307.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1307.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1310.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1302.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4495.500000, 1137.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4494.000000, 1157.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1157.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1180.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1173.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1160.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1150.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1142.000610, -17.999313)
+..6...7.
+WARNING: Too many light styles on a face at (1433.000000, 1016.000000, 176.000000)
+..8...9..
+WARNING: Too many light styles on a face at (4492.009766, 1298.776733, -17.481686)
+.100...1...2...3...4...5...6...7...8...9...10transfers 61132232, max 3185
+transfer lists: 466.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1078769, 472716, 487794)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(425785, 122415, 88638)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(231263, 49667, 22947)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(141315, 25590, 6258)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(96501, 15193, 1820)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(70371, 9759, 545)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(54449, 6536, 173)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(43931, 4483, 61)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(36653, 3119, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(31312, 2191, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27233, 1551, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(23989, 1104, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(21337, 790, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(19116, 568, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(17224, 409, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(15588, 296, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(14162, 215, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(12904, 157, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(11792, 114, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(10803, 84, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(9917, 61, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(9123, 45, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(8407, 33, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(7761, 24, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(7175, 18, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(6643, 13, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(6159, 10, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(5716, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(5312, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(4942, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(4601, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(4289, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(4001, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(3735, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(3490, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(3263, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(3052, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(2857, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(2676, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(2508, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(2352, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(2206, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(2070, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(1943, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(1825, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(1715, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(1612, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(1515, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(1425, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(1340, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(1261, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(1187, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(1117, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(1052, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(990, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(933, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(879, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(828, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(780, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(736, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(693, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(654, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(616, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(581, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(548, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(517, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(488, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(460, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(434, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(410, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(387, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(365, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(345, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(325, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(307, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(290, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(274, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(259, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(244, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(231, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(218, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(206, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(194, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(184, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(173, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(164, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(155, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(146, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(138, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(131, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(123, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(117, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(110, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(104, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(99, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(93, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(88, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(83, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(79, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(74, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1039 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+61 of 62 (98% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 260/1024        12480/49152    (25.4%) 
+brushes               7755/16384       93060/196608   (47.3%) 
+brushsides           62693/65536      501544/524288   (95.7%) VERY FULL!
+planes               44488/65536      889760/1310720  (67.9%) 
+vertexes             53640/65536      643680/786432   (81.8%) VERY FULL!
+nodes                15252/65536      488064/2097152  (23.3%) 
+texinfos              8341/12288      600552/884736   (67.9%) 
+texdata                524/2048        16768/65536    (25.6%) 
+dispinfos              229/0           40304/0        ( 0.0%) 
+disp_verts           10149/0          202980/0        ( 0.0%) 
+disp_tris            14912/0           29824/0        ( 0.0%) 
+disp_lmsamples      186824/0          186824/0        ( 0.0%) 
+faces                31092/65536     1741152/3670016  (47.4%) 
+hdr faces            31092/65536     1741152/3670016  (47.4%) 
+origfaces            18757/65536     1050392/3670016  (28.6%) 
+leaves               15513/65536      496416/2097152  (23.7%) 
+leaffaces            39331/65536       78662/131072   (60.0%) 
+leafbrushes          17499/65536       34998/131072   (26.7%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges           225233/512000     900932/2048000  (44.0%) 
+edges               138405/256000     553620/1024000  (54.1%) 
+LDR worldlights        608/8192        53504/720896   ( 7.4%) 
+HDR worldlights        608/8192        53504/720896   ( 7.4%) 
+leafwaterdata           11/32768         132/393216   ( 0.0%) 
+waterstrips           3109/32768       31090/327680   ( 9.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         55011/65536      110022/131072   (83.9%) VERY FULL!
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]    15888328/0        ( 0.0%) 
+HDR lightdata         [variable]    15888328/0        ( 0.0%) 
+visdata               [variable]     2962140/16777216 (17.7%) 
+entdata               [variable]      516797/393216   (131.4%) VERY FULL!
+LDR ambient table    15513/65536       62052/262144   (23.7%) 
+HDR ambient table    15513/65536       62052/262144   (23.7%) 
+LDR leaf ambient     54263/65536     1519364/1835008  (82.8%) VERY FULL!
+HDR leaf ambient     53862/65536     1508136/1835008  (82.2%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/30456    ( 0.0%) 
+pakfile               [variable]      579360/0        ( 0.0%) 
+physics               [variable]     2875085/4194304  (68.5%) 
+physics terrain       [variable]       46187/1048576  ( 4.4%) 
+
+Level flags = 0
+
+Total triangle count: 87245
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+2 minutes, 4 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "undertale/leaves/ruins_leaves" not found.
+Material not found!: UNDERTALE/LEAVES/RUINS_LEAVES
+material "republic/decals/orb2" not found.
+Material not found!: REPUBLIC/DECALS/ORB2
+material "republic/decals/orb" not found.
+Material not found!: REPUBLIC/DECALS/ORB
+material "republic/decals/orb3" not found.
+Material not found!: REPUBLIC/DECALS/ORB3
+material "republic/decals/propaganda" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA
+material "republic/decals/propaganda-2" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-2
+material "hl2_beta/decal_signroute007d" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007D
+material "hl2_beta/decal_signroute007c" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007C
+material "hl2_beta/decal_signroute007b" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007B
+material "hl2_beta/decal_signroute007a" not found.
+Material not found!: HL2_BETA/DECAL_SIGNROUTE007A
+material "republic/decals/propaganda-7" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-7
+material "republic/decals/propaganda-3" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-3
+material "republic/decals/propaganda-4" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-4
+material "republic/decals/propaganda-5" not found.
+Material not found!: REPUBLIC/DECALS/PROPAGANDA-5
+material "republic/decals/great-seal" not found.
+Material not found!: REPUBLIC/DECALS/GREAT-SEAL
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12246.5 -705.0 12815.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 92488: 
+
+0...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2172 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day03_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2875085 bytes)
+Error loading studio model STATIC "models/custom_models/lights/light22.mdl"!
+Error loading studio model STATIC "models/custom_models/lights/light12.mdl"!
+Error loading studio model STATIC "models/custom_models/lights/light30.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12679 texinfos to 8341
+Reduced 612 texdatas to 524 (22307 bytes to 19112)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune.bsp
+10 seconds elapsed
+
+
+
+8 threads
+reading d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+reading d:\workspace\github repositories\rp_undertale_republic\rp_underrune.prt
+7189 portalclusters
+23087 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 554654 visible clusters (8.55%)
+Total clusters visible: 6488789
+Average clusters visible: 902
+Building PAS...
+Average clusters audible: 1596
+visdatasize:2962140  compressed from 12997712
+writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+PREP OK
+31092 faces
+53 degenerate faces
+10166299 square feet [1463947008.00 square inches]
+229 Displacements
+124411 Square Feet [17915190.00 Square Inches]
+31039 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+435091 patches after subdivision
+can't solve quadratic for light 128.000000 128.000000
+can't solve quadratic for light 400.000000 400.000000
+can't solve quadratic for light 400.000000 400.000000
+608 direct lights
+0.
+WARNING: Too many light styles on a face at (4668.000488, 1458.000000, -63.000000)
+
+WARNING: Too many light styles on a face at (4660.000000, 1502.000610, -63.000000)
+..1
+WARNING: Too many light styles on a face at (4665.000000, 1458.000000, -55.999313)
+...2...3...4...
+WARNING: Too many light styles on a face at (4584.000488, 1312.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4600.000488, 1328.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4584.000488, 1488.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4760.000977, 1392.001221, 27.000000)
+5
+WARNING: Too many light styles on a face at (4497.000000, 1139.000610, -49.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1178.750000, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1264.001221, 20.027649)
+
+WARNING: Too many light styles on a face at (4497.000000, 1497.150024, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1342.950073, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1498.150024, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1342.950073, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1179.750000, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1495.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1485.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1475.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1345.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1335.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1325.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1315.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1305.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1175.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1165.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1155.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1145.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1185.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1505.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1349.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1295.000000, -12.799240)
+
+WARNING: Too many light styles on a face at (4497.000000, 1189.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1615.000000, -12.799240)
+
+WARNING: Too many light styles on a face at (4497.000000, 1509.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4760.000977, 1384.001221, -95.000000)
+
+WARNING: Too many light styles on a face at (4584.000977, 1113.000000, -11.944698)
+
+WARNING: Too many light styles on a face at (4584.000977, 1113.000000, -33.972347)
+.
+WARNING: Too many light styles on a face at (4490.000000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1160.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1167.050049, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1167.050049, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1180.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1480.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1480.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1490.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1490.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4496.000000, 1500.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1493.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1480.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1470.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1297.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4494.000000, 1317.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1317.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4494.000000, 1337.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1337.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1340.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1327.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1327.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1333.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1320.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1307.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1307.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1310.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1302.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4495.500000, 1137.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4494.000000, 1157.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1157.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1180.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1173.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1160.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1150.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1142.000610, -17.999313)
+..6...7.
+WARNING: Too many light styles on a face at (1433.000000, 1016.000000, 176.000000)
+..8...9..
+WARNING: Too many light styles on a face at (4492.009766, 1298.776733, -17.481686)
+.100...1...2...3...4...5...6...7...8...9...10transfers 61148557, max 3187
+transfer lists: 466.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1337188, 640523, 657830)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(495088, 164638, 129704)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(250567, 60682, 33702)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(146956, 28550, 9174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(98220, 16034, 2664)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(70918, 10016, 807)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(54641, 6628, 267)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(44008, 4525, 103)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(36692, 3144, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(31336, 2210, 31)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27250, 1566, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(24003, 1116, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(21349, 800, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(19126, 576, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(17232, 416, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(15595, 302, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(14168, 220, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(12909, 161, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(11796, 118, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(10807, 86, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(9920, 64, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(9126, 47, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(8409, 35, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(7762, 26, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(7176, 19, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(6644, 14, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(6159, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(5717, 8, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(5313, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(4942, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(4602, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(4289, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(4001, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(3735, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(3490, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(3263, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(3052, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(2857, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(2676, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(2508, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(2352, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(2206, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(2070, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(1944, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(1825, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(1715, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(1612, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(1515, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(1425, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(1340, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(1261, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(1187, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(1117, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(1052, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(990, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(933, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(879, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(828, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(780, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(736, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(693, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(654, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(616, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(581, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(548, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(517, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(488, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(460, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(434, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(410, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(387, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(365, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(345, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(325, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(307, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(290, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(274, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(259, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(244, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(231, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(218, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(206, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(194, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(184, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(173, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(164, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(155, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(146, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(138, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(131, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(123, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(117, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(110, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(104, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(99, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(93, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(88, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(83, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(79, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(74, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0991 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+61 of 62 (98% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 260/1024        12480/49152    (25.4%) 
+brushes               7755/16384       93060/196608   (47.3%) 
+brushsides           62693/65536      501544/524288   (95.7%) VERY FULL!
+planes               44488/65536      889760/1310720  (67.9%) 
+vertexes             53640/65536      643680/786432   (81.8%) VERY FULL!
+nodes                15252/65536      488064/2097152  (23.3%) 
+texinfos              8341/12288      600552/884736   (67.9%) 
+texdata                524/2048        16768/65536    (25.6%) 
+dispinfos              229/0           40304/0        ( 0.0%) 
+disp_verts           10149/0          202980/0        ( 0.0%) 
+disp_tris            14912/0           29824/0        ( 0.0%) 
+disp_lmsamples      186824/0          186824/0        ( 0.0%) 
+faces                31092/65536     1741152/3670016  (47.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            18757/65536     1050392/3670016  (28.6%) 
+leaves               15513/65536      496416/2097152  (23.7%) 
+leaffaces            39331/65536       78662/131072   (60.0%) 
+leafbrushes          17499/65536       34998/131072   (26.7%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges           225233/512000     900932/2048000  (44.0%) 
+edges               138405/256000     553620/1024000  (54.1%) 
+LDR worldlights        608/8192        53504/720896   ( 7.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata           11/32768         132/393216   ( 0.0%) 
+waterstrips           3109/32768       31090/327680   ( 9.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         55011/65536      110022/131072   (83.9%) VERY FULL!
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]    15888328/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2962140/16777216 (17.7%) 
+entdata               [variable]      516799/393216   (131.4%) VERY FULL!
+LDR ambient table    15513/65536       62052/262144   (23.7%) 
+HDR ambient table    15513/65536       62052/262144   (23.7%) 
+LDR leaf ambient     54263/65536     1519364/1835008  (82.8%) VERY FULL!
+HDR leaf ambient     15513/65536      434364/1835008  (23.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/30456    ( 0.0%) 
+pakfile               [variable]      579360/0        ( 0.0%) 
+physics               [variable]     2875085/4194304  (68.5%) 
+physics terrain       [variable]       46187/1048576  ( 4.4%) 
+
+Level flags = 0
+
+Total triangle count: 87245
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+2 minutes, 5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+PREP OK
+31092 faces
+53 degenerate faces
+10166299 square feet [1463947008.00 square inches]
+229 Displacements
+124411 Square Feet [17915190.00 Square Inches]
+31039 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+435091 patches after subdivision
+can't solve quadratic for light 128.000000 128.000000
+can't solve quadratic for light 400.000000 400.000000
+can't solve quadratic for light 400.000000 400.000000
+608 direct lights
+0.
+WARNING: Too many light styles on a face at (4668.000488, 1458.000000, -63.000000)
+
+WARNING: Too many light styles on a face at (4660.000000, 1502.000610, -63.000000)
+..1
+WARNING: Too many light styles on a face at (4665.000000, 1458.000000, -55.999313)
+...2...3...4...
+WARNING: Too many light styles on a face at (4584.000488, 1312.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4600.000488, 1328.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4584.000488, 1488.000610, 27.000000)
+
+WARNING: Too many light styles on a face at (4760.000977, 1392.001221, 27.000000)
+5
+WARNING: Too many light styles on a face at (4497.000000, 1139.000610, -49.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1178.750000, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1264.001221, 20.027649)
+
+WARNING: Too many light styles on a face at (4497.000000, 1497.150024, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1342.950073, -47.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1498.150024, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1342.950073, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1179.750000, -9.000000)
+
+WARNING: Too many light styles on a face at (4497.000000, 1495.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1485.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1475.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1345.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1335.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1315.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1325.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1305.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1175.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1165.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1155.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1145.000000, -15.877399)
+
+WARNING: Too many light styles on a face at (4497.000000, 1185.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1505.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4497.000000, 1349.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1295.000000, -12.799240)
+
+WARNING: Too many light styles on a face at (4497.000000, 1189.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4497.000000, 1615.000000, -12.799240)
+
+WARNING: Too many light styles on a face at (4497.000000, 1509.000610, -13.972347)
+
+WARNING: Too many light styles on a face at (4760.000977, 1384.001221, -95.000000)
+
+WARNING: Too many light styles on a face at (4584.000977, 1113.000000, -11.944698)
+
+WARNING: Too many light styles on a face at (4584.000977, 1113.000000, -33.972347)
+.
+WARNING: Too many light styles on a face at (4490.000000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1160.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1167.050049, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1167.050049, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1180.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1299.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1310.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1317.250000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1330.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1340.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1467.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1480.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1480.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1490.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1490.000000, -11.000000)
+
+WARNING: Too many light styles on a face at (4492.500000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4495.500000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4494.000000, 1498.450073, -11.000000)
+
+WARNING: Too many light styles on a face at (4496.000000, 1500.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1493.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1480.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1470.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1297.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4494.000000, 1317.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1317.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1337.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4494.000000, 1337.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1340.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1327.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1327.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1333.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1320.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4494.000000, 1307.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1307.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1310.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1302.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4495.500000, 1137.000000, -13.799242)
+
+WARNING: Too many light styles on a face at (4494.000000, 1157.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4495.500000, 1157.000000, -12.116925)
+
+WARNING: Too many light styles on a face at (4496.000000, 1180.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1173.000610, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1160.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1150.000000, -17.999313)
+
+WARNING: Too many light styles on a face at (4496.000000, 1142.000610, -17.999313)
+..6...7.
+WARNING: Too many light styles on a face at (1433.000000, 1016.000000, 176.000000)
+..8...9..
+WARNING: Too many light styles on a face at (4492.009766, 1298.776733, -17.481686)
+.100...1...2...3...4...5...6...7...8...9...10transfers 61148557, max 3187
+transfer lists: 466.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1078770, 472718, 487796)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(425785, 122415, 88638)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(231263, 49667, 22947)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(141315, 25590, 6258)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(96501, 15193, 1820)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(70371, 9759, 545)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(54449, 6536, 173)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(43931, 4483, 61)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(36653, 3119, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(31312, 2191, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27233, 1551, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(23989, 1104, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(21337, 790, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(19116, 568, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(17224, 409, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(15588, 296, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(14162, 215, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(12904, 157, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(11792, 114, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(10803, 84, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(9917, 61, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(9123, 45, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(8407, 33, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(7761, 24, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(7175, 18, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(6643, 13, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(6159, 10, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(5716, 7, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(5312, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(4942, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(4601, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(4289, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(4001, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(3735, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(3490, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(3263, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(3052, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(2857, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(2676, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(2508, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(2352, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(2206, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(2070, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(1943, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(1825, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(1715, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(1612, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(1515, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(1425, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(1340, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(1261, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(1187, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(1117, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(1052, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(990, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(933, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(879, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(828, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(780, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(736, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(693, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(654, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(616, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(581, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(548, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(517, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(488, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(460, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(434, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(410, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(387, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(365, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(345, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(325, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(307, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(290, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(274, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(259, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(244, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(231, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(218, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(206, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(194, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(184, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(173, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(164, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(155, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(146, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(138, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(131, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(123, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(117, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(110, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(104, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(99, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(93, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(88, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(83, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(79, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(74, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1041 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+61 of 62 (98% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 260/1024        12480/49152    (25.4%) 
+brushes               7755/16384       93060/196608   (47.3%) 
+brushsides           62693/65536      501544/524288   (95.7%) VERY FULL!
+planes               44488/65536      889760/1310720  (67.9%) 
+vertexes             53640/65536      643680/786432   (81.8%) VERY FULL!
+nodes                15252/65536      488064/2097152  (23.3%) 
+texinfos              8341/12288      600552/884736   (67.9%) 
+texdata                524/2048        16768/65536    (25.6%) 
+dispinfos              229/0           40304/0        ( 0.0%) 
+disp_verts           10149/0          202980/0        ( 0.0%) 
+disp_tris            14912/0           29824/0        ( 0.0%) 
+disp_lmsamples      186824/0          186824/0        ( 0.0%) 
+faces                31092/65536     1741152/3670016  (47.4%) 
+hdr faces            31092/65536     1741152/3670016  (47.4%) 
+origfaces            18757/65536     1050392/3670016  (28.6%) 
+leaves               15513/65536      496416/2097152  (23.7%) 
+leaffaces            39331/65536       78662/131072   (60.0%) 
+leafbrushes          17499/65536       34998/131072   (26.7%) 
+areas                   17/1024          136/8192     ( 1.7%) 
+surfedges           225233/512000     900932/2048000  (44.0%) 
+edges               138405/256000     553620/1024000  (54.1%) 
+LDR worldlights        608/8192        53504/720896   ( 7.4%) 
+HDR worldlights        608/8192        53504/720896   ( 7.4%) 
+leafwaterdata           11/32768         132/393216   ( 0.0%) 
+waterstrips           3109/32768       31090/327680   ( 9.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         55011/65536      110022/131072   (83.9%) VERY FULL!
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays                27/512          9504/180224   ( 5.3%) 
+LDR lightdata         [variable]    15888328/0        ( 0.0%) 
+HDR lightdata         [variable]    15888328/0        ( 0.0%) 
+visdata               [variable]     2962140/16777216 (17.7%) 
+entdata               [variable]      516799/393216   (131.4%) VERY FULL!
+LDR ambient table    15513/65536       62052/262144   (23.7%) 
+HDR ambient table    15513/65536       62052/262144   (23.7%) 
+LDR leaf ambient     54263/65536     1519364/1835008  (82.8%) VERY FULL!
+HDR leaf ambient     53862/65536     1508136/1835008  (82.2%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/30456    ( 0.0%) 
+pakfile               [variable]      579360/0        ( 0.0%) 
+physics               [variable]     2875085/4194304  (68.5%) 
+physics terrain       [variable]       46187/1048576  ( 4.4%) 
+
+Level flags = 0
+
+Total triangle count: 87245
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune.bsp
+2 minutes, 5 seconds elapsed
