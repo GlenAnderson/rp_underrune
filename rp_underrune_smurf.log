@@ -1,0 +1,1847 @@
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: UNDERTALE/HOUSE/RAILING2
+Material not found!: UNDERTALE/FROGGIT
+Material not found!: CONCRETE/COMPUTERWALL005E
+Material not found!: CONCRETE/CONCRETEWALL008
+Material not found!: TEST/COLOR004
+Material not found!: SWAMP/BRICK/SWAMPCOBBLEWALL001
+Entity 868: func_areaportal can only be a single brush
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: UNDERTALE/HOUSE/RAILING2
+Material not found!: UNDERTALE/FROGGIT
+Material not found!: CONCRETE/COMPUTERWALL005E
+Material not found!: CONCRETE/CONCRETEWALL008
+Material not found!: TEST/COLOR004
+Material not found!: SWAMP/BRICK/SWAMPCOBBLEWALL001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3686.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3685.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4685.0 3692.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2482 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_black*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_black*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2596247 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9216 texinfos to 7437
+Reduced 441 texdatas to 398 (14535 bytes to 12389)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+9 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: UNDERTALE/HOUSE/RAILING2
+Material not found!: UNDERTALE/FROGGIT
+Material not found!: CONCRETE/COMPUTERWALL005E
+Material not found!: CONCRETE/CONCRETEWALL008
+Material not found!: TEST/COLOR004
+Material not found!: SWAMP/BRICK/SWAMPCOBBLEWALL001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3686.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3685.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4685.0 3692.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2482 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_black*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_black*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2596247 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9216 texinfos to 7437
+Reduced 441 texdatas to 398 (14535 bytes to 12389)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27332 faces
+63 degenerate faces
+5311581 square feet [764867712.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0547 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6811/16384       81732/196608   (41.6%) 
+brushsides           60563/65536      484504/524288   (92.4%) VERY FULL!
+planes               52240/65536     1044800/1310720  (79.7%) 
+vertexes             49150/65536      589800/786432   (75.0%) 
+nodes                14040/65536      449280/2097152  (21.4%) 
+texinfos              7437/12288      535464/884736   (60.5%) 
+texdata                398/2048        12736/65536    (19.4%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27332/65536     1530592/3670016  (41.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            16831/65536      942536/3670016  (25.7%) 
+leaves               14284/65536      457088/2097152  (21.8%) 
+leaffaces            35320/65536       70640/131072   (53.9%) 
+leafbrushes          16574/65536       33148/131072   (25.3%) 
+areas                   12/1024           96/8192     ( 1.2%) 
+surfedges           200695/512000     802780/2048000  (39.2%) 
+edges               122207/256000     488828/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2939/32768       29390/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51705/65536      103410/131072   (78.9%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10378820/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      303653/393216   (77.2%) 
+LDR ambient table    14284/65536       57136/262144   (21.8%) 
+HDR ambient table    14284/65536       57136/262144   (21.8%) 
+LDR leaf ambient     46615/65536     1305220/1835008  (71.1%) 
+HDR leaf ambient     14284/65536      399952/1835008  (21.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      655627/0        ( 0.0%) 
+physics               [variable]     2596247/4194304  (61.9%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77813
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27332 faces
+63 degenerate faces
+5311581 square feet [764867712.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0599 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6811/16384       81732/196608   (41.6%) 
+brushsides           60563/65536      484504/524288   (92.4%) VERY FULL!
+planes               52240/65536     1044800/1310720  (79.7%) 
+vertexes             49150/65536      589800/786432   (75.0%) 
+nodes                14040/65536      449280/2097152  (21.4%) 
+texinfos              7437/12288      535464/884736   (60.5%) 
+texdata                398/2048        12736/65536    (19.4%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27332/65536     1530592/3670016  (41.7%) 
+hdr faces            27332/65536     1530592/3670016  (41.7%) 
+origfaces            16831/65536      942536/3670016  (25.7%) 
+leaves               14284/65536      457088/2097152  (21.8%) 
+leaffaces            35320/65536       70640/131072   (53.9%) 
+leafbrushes          16574/65536       33148/131072   (25.3%) 
+areas                   12/1024           96/8192     ( 1.2%) 
+surfedges           200695/512000     802780/2048000  (39.2%) 
+edges               122207/256000     488828/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights        342/8192        30096/720896   ( 4.2%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2939/32768       29390/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51705/65536      103410/131072   (78.9%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10378820/0        ( 0.0%) 
+HDR lightdata         [variable]    10378820/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      303653/393216   (77.2%) 
+LDR ambient table    14284/65536       57136/262144   (21.8%) 
+HDR ambient table    14284/65536       57136/262144   (21.8%) 
+LDR leaf ambient     46615/65536     1305220/1835008  (71.1%) 
+HDR leaf ambient     46613/65536     1305164/1835008  (71.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      655627/0        ( 0.0%) 
+physics               [variable]     2596247/4194304  (61.9%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77813
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 15 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: UNDERTALE/HOUSE/RAILING2
+Material not found!: UNDERTALE/FROGGIT
+Material not found!: CONCRETE/COMPUTERWALL005E
+Material not found!: CONCRETE/CONCRETEWALL008
+Material not found!: TEST/COLOR004
+Material not found!: SWAMP/BRICK/SWAMPCOBBLEWALL001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3686.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3685.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4685.0 3692.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2482 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2595887 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9216 texinfos to 7437
+Reduced 441 texdatas to 398 (14535 bytes to 12389)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27331 faces
+63 degenerate faces
+5311169 square feet [764808320.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0552 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6810/16384       81720/196608   (41.6%) 
+brushsides           60557/65536      484456/524288   (92.4%) VERY FULL!
+planes               52240/65536     1044800/1310720  (79.7%) 
+vertexes             49148/65536      589776/786432   (75.0%) 
+nodes                14040/65536      449280/2097152  (21.4%) 
+texinfos              7437/12288      535464/884736   (60.5%) 
+texdata                398/2048        12736/65536    (19.4%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27331/65536     1530536/3670016  (41.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            16829/65536      942424/3670016  (25.7%) 
+leaves               14284/65536      457088/2097152  (21.8%) 
+leaffaces            35318/65536       70636/131072   (53.9%) 
+leafbrushes          16574/65536       33148/131072   (25.3%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           200685/512000     802740/2048000  (39.2%) 
+edges               122197/256000     488788/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2940/32768       29400/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51723/65536      103446/131072   (78.9%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10427860/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      303594/393216   (77.2%) 
+LDR ambient table    14284/65536       57136/262144   (21.8%) 
+HDR ambient table    14284/65536       57136/262144   (21.8%) 
+LDR leaf ambient     49282/65536     1379896/1835008  (75.2%) 
+HDR leaf ambient     14284/65536      399952/1835008  (21.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2595887/4194304  (61.9%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77813
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27331 faces
+63 degenerate faces
+5311169 square feet [764808320.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0626 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6810/16384       81720/196608   (41.6%) 
+brushsides           60557/65536      484456/524288   (92.4%) VERY FULL!
+planes               52240/65536     1044800/1310720  (79.7%) 
+vertexes             49148/65536      589776/786432   (75.0%) 
+nodes                14040/65536      449280/2097152  (21.4%) 
+texinfos              7437/12288      535464/884736   (60.5%) 
+texdata                398/2048        12736/65536    (19.4%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27331/65536     1530536/3670016  (41.7%) 
+hdr faces            27331/65536     1530536/3670016  (41.7%) 
+origfaces            16829/65536      942424/3670016  (25.7%) 
+leaves               14284/65536      457088/2097152  (21.8%) 
+leaffaces            35318/65536       70636/131072   (53.9%) 
+leafbrushes          16574/65536       33148/131072   (25.3%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           200685/512000     802740/2048000  (39.2%) 
+edges               122197/256000     488788/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights        342/8192        30096/720896   ( 4.2%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2940/32768       29400/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51723/65536      103446/131072   (78.9%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10427860/0        ( 0.0%) 
+HDR lightdata         [variable]    10427860/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      303594/393216   (77.2%) 
+LDR ambient table    14284/65536       57136/262144   (21.8%) 
+HDR ambient table    14284/65536       57136/262144   (21.8%) 
+LDR leaf ambient     49282/65536     1379896/1835008  (75.2%) 
+HDR leaf ambient     49104/65536     1374912/1835008  (74.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2595887/4194304  (61.9%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77813
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 15 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: UNDERTALE/HOUSE/RAILING2
+Material not found!: UNDERTALE/FROGGIT
+Material not found!: CONCRETE/COMPUTERWALL005E
+Material not found!: CONCRETE/CONCRETEWALL008
+Material not found!: TEST/COLOR004
+Material not found!: SWAMP/BRICK/SWAMPCOBBLEWALL001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3686.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3685.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4685.0 3692.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2482 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2594119 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9216 texinfos to 7436
+Reduced 441 texdatas to 398 (14535 bytes to 12389)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27300 faces
+64 degenerate faces
+5309953 square feet [764633216.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0582 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6805/16384       81660/196608   (41.5%) 
+brushsides           60527/65536      484216/524288   (92.4%) VERY FULL!
+planes               52234/65536     1044680/1310720  (79.7%) 
+vertexes             49097/65536      589164/786432   (74.9%) 
+nodes                14013/65536      448416/2097152  (21.4%) 
+texinfos              7436/12288      535392/884736   (60.5%) 
+texdata                398/2048        12736/65536    (19.4%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27300/65536     1528800/3670016  (41.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            16818/65536      941808/3670016  (25.7%) 
+leaves               14257/65536      456224/2097152  (21.8%) 
+leaffaces            35230/65536       70460/131072   (53.8%) 
+leafbrushes          16550/65536       33100/131072   (25.3%) 
+areas                    8/1024           64/8192     ( 0.8%) 
+surfedges           200524/512000     802096/2048000  (39.2%) 
+edges               122098/256000     488392/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2941/32768       29410/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51756/65536      103512/131072   (79.0%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10496412/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      303634/393216   (77.2%) 
+LDR ambient table    14257/65536       57028/262144   (21.8%) 
+HDR ambient table    14257/65536       57028/262144   (21.8%) 
+LDR leaf ambient     48984/65536     1371552/1835008  (74.7%) 
+HDR leaf ambient     14257/65536      399196/1835008  (21.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2594119/4194304  (61.8%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77758
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 30 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27300 faces
+64 degenerate faces
+5309953 square feet [764633216.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0602 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6805/16384       81660/196608   (41.5%) 
+brushsides           60527/65536      484216/524288   (92.4%) VERY FULL!
+planes               52234/65536     1044680/1310720  (79.7%) 
+vertexes             49097/65536      589164/786432   (74.9%) 
+nodes                14013/65536      448416/2097152  (21.4%) 
+texinfos              7436/12288      535392/884736   (60.5%) 
+texdata                398/2048        12736/65536    (19.4%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27300/65536     1528800/3670016  (41.7%) 
+hdr faces            27300/65536     1528800/3670016  (41.7%) 
+origfaces            16818/65536      941808/3670016  (25.7%) 
+leaves               14257/65536      456224/2097152  (21.8%) 
+leaffaces            35230/65536       70460/131072   (53.8%) 
+leafbrushes          16550/65536       33100/131072   (25.3%) 
+areas                    8/1024           64/8192     ( 0.8%) 
+surfedges           200524/512000     802096/2048000  (39.2%) 
+edges               122098/256000     488392/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights        342/8192        30096/720896   ( 4.2%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2941/32768       29410/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51756/65536      103512/131072   (79.0%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10496412/0        ( 0.0%) 
+HDR lightdata         [variable]    10496412/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      303634/393216   (77.2%) 
+LDR ambient table    14257/65536       57028/262144   (21.8%) 
+HDR ambient table    14257/65536       57028/262144   (21.8%) 
+LDR leaf ambient     48984/65536     1371552/1835008  (74.7%) 
+HDR leaf ambient     48754/65536     1365112/1835008  (74.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2594119/4194304  (61.8%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77758
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 21 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: UNDERTALE/HOUSE/RAILING2
+Material not found!: CONCRETE/COMPUTERWALL005E
+Material not found!: CONCRETE/CONCRETEWALL008
+Material not found!: TEST/COLOR004
+Material not found!: SWAMP/BRICK/SWAMPCOBBLEWALL001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3686.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3685.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4685.0 3692.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 2482 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2593727 bytes)
+Error! To use model "models/republic/republic_logo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model STATIC "models/republic/republic_logo.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9219 texinfos to 7432
+Reduced 439 texdatas to 396 (14492 bytes to 12346)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27281 faces
+64 degenerate faces
+5309815 square feet [764613376.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0847 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6804/16384       81648/196608   (41.5%) 
+brushsides           60521/65536      484168/524288   (92.3%) VERY FULL!
+planes               52226/65536     1044520/1310720  (79.7%) 
+vertexes             49076/65536      588912/786432   (74.9%) 
+nodes                14008/65536      448256/2097152  (21.4%) 
+texinfos              7432/12288      535104/884736   (60.5%) 
+texdata                396/2048        12672/65536    (19.3%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27281/65536     1527736/3670016  (41.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            16810/65536      941360/3670016  (25.7%) 
+leaves               14252/65536      456064/2097152  (21.7%) 
+leaffaces            35313/65536       70626/131072   (53.9%) 
+leafbrushes          16552/65536       33104/131072   (25.3%) 
+areas                    8/1024           64/8192     ( 0.8%) 
+surfedges           200409/512000     801636/2048000  (39.1%) 
+edges               122026/256000     488104/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2943/32768       29430/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51696/65536      103392/131072   (78.9%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10494136/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      303799/393216   (77.3%) 
+LDR ambient table    14252/65536       57008/262144   (21.7%) 
+HDR ambient table    14252/65536       57008/262144   (21.7%) 
+LDR leaf ambient     49064/65536     1373792/1835008  (74.9%) 
+HDR leaf ambient     14252/65536      399056/1835008  (21.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2593727/4194304  (61.8%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77713
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 53 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27281 faces
+64 degenerate faces
+5309815 square feet [764613376.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0817 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6804/16384       81648/196608   (41.5%) 
+brushsides           60521/65536      484168/524288   (92.3%) VERY FULL!
+planes               52226/65536     1044520/1310720  (79.7%) 
+vertexes             49076/65536      588912/786432   (74.9%) 
+nodes                14008/65536      448256/2097152  (21.4%) 
+texinfos              7432/12288      535104/884736   (60.5%) 
+texdata                396/2048        12672/65536    (19.3%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27281/65536     1527736/3670016  (41.6%) 
+hdr faces            27281/65536     1527736/3670016  (41.6%) 
+origfaces            16810/65536      941360/3670016  (25.7%) 
+leaves               14252/65536      456064/2097152  (21.7%) 
+leaffaces            35313/65536       70626/131072   (53.9%) 
+leafbrushes          16552/65536       33104/131072   (25.3%) 
+areas                    8/1024           64/8192     ( 0.8%) 
+surfedges           200409/512000     801636/2048000  (39.1%) 
+edges               122026/256000     488104/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights        342/8192        30096/720896   ( 4.2%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2943/32768       29430/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51696/65536      103392/131072   (78.9%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10494136/0        ( 0.0%) 
+HDR lightdata         [variable]    10494136/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      303799/393216   (77.3%) 
+LDR ambient table    14252/65536       57008/262144   (21.7%) 
+HDR ambient table    14252/65536       57008/262144   (21.7%) 
+LDR leaf ambient     49064/65536     1373792/1835008  (74.9%) 
+HDR leaf ambient     48846/65536     1367688/1835008  (74.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2593727/4194304  (61.8%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77713
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 43 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: UNDERTALE/HOUSE/RAILING2
+Material not found!: CONCRETE/COMPUTERWALL005E
+Material not found!: CONCRETE/CONCRETEWALL008
+Material not found!: TEST/COLOR004
+Material not found!: SWAMP/BRICK/SWAMPCOBBLEWALL001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3686.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3685.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4685.0 3692.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2482 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2593727 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9219 texinfos to 7433
+Reduced 440 texdatas to 396 (14519 bytes to 12346)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27283 faces
+64 degenerate faces
+5309843 square feet [764617472.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0573 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6804/16384       81648/196608   (41.5%) 
+brushsides           60521/65536      484168/524288   (92.3%) VERY FULL!
+planes               52226/65536     1044520/1310720  (79.7%) 
+vertexes             49076/65536      588912/786432   (74.9%) 
+nodes                14008/65536      448256/2097152  (21.4%) 
+texinfos              7433/12288      535176/884736   (60.5%) 
+texdata                396/2048        12672/65536    (19.3%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27283/65536     1527848/3670016  (41.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            16811/65536      941416/3670016  (25.7%) 
+leaves               14252/65536      456064/2097152  (21.7%) 
+leaffaces            35315/65536       70630/131072   (53.9%) 
+leafbrushes          16552/65536       33104/131072   (25.3%) 
+areas                    8/1024           64/8192     ( 0.8%) 
+surfedges           200421/512000     801684/2048000  (39.1%) 
+edges               122037/256000     488148/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2943/32768       29430/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51696/65536      103392/131072   (78.9%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10494336/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      304472/393216   (77.4%) 
+LDR ambient table    14252/65536       57008/262144   (21.7%) 
+HDR ambient table    14252/65536       57008/262144   (21.7%) 
+LDR leaf ambient     49064/65536     1373792/1835008  (74.9%) 
+HDR leaf ambient     14252/65536      399056/1835008  (21.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2593727/4194304  (61.8%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77717
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 38 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27283 faces
+64 degenerate faces
+5309843 square feet [764617472.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0608 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6804/16384       81648/196608   (41.5%) 
+brushsides           60521/65536      484168/524288   (92.3%) VERY FULL!
+planes               52226/65536     1044520/1310720  (79.7%) 
+vertexes             49076/65536      588912/786432   (74.9%) 
+nodes                14008/65536      448256/2097152  (21.4%) 
+texinfos              7433/12288      535176/884736   (60.5%) 
+texdata                396/2048        12672/65536    (19.3%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27283/65536     1527848/3670016  (41.6%) 
+hdr faces            27283/65536     1527848/3670016  (41.6%) 
+origfaces            16811/65536      941416/3670016  (25.7%) 
+leaves               14252/65536      456064/2097152  (21.7%) 
+leaffaces            35315/65536       70630/131072   (53.9%) 
+leafbrushes          16552/65536       33104/131072   (25.3%) 
+areas                    8/1024           64/8192     ( 0.8%) 
+surfedges           200421/512000     801684/2048000  (39.1%) 
+edges               122037/256000     488148/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights        342/8192        30096/720896   ( 4.2%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2943/32768       29430/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51696/65536      103392/131072   (78.9%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10494336/0        ( 0.0%) 
+HDR lightdata         [variable]    10494336/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      304472/393216   (77.4%) 
+LDR ambient table    14252/65536       57008/262144   (21.7%) 
+HDR ambient table    14252/65536       57008/262144   (21.7%) 
+LDR leaf ambient     49064/65536     1373792/1835008  (74.9%) 
+HDR leaf ambient     48848/65536     1367744/1835008  (74.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2593727/4194304  (61.8%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77717
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 28 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: UNDERTALE/HOUSE/RAILING2
+Material not found!: CONCRETE/COMPUTERWALL005E
+Material not found!: CONCRETE/CONCRETEWALL008
+Material not found!: TEST/COLOR004
+Material not found!: SWAMP/BRICK/SWAMPCOBBLEWALL001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3686.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3685.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4685.0 3692.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2482 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (2594511 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9220 texinfos to 7433
+Reduced 440 texdatas to 396 (14519 bytes to 12346)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+10 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27285 faces
+64 degenerate faces
+5309843 square feet [764617472.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0892 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6806/16384       81672/196608   (41.5%) 
+brushsides           60533/65536      484264/524288   (92.4%) VERY FULL!
+planes               52238/65536     1044760/1310720  (79.7%) 
+vertexes             49098/65536      589176/786432   (74.9%) 
+nodes                14018/65536      448576/2097152  (21.4%) 
+texinfos              7433/12288      535176/884736   (60.5%) 
+texdata                396/2048        12672/65536    (19.3%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27285/65536     1527960/3670016  (41.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            16810/65536      941360/3670016  (25.7%) 
+leaves               14262/65536      456384/2097152  (21.8%) 
+leaffaces            35311/65536       70622/131072   (53.9%) 
+leafbrushes          16555/65536       33110/131072   (25.3%) 
+areas                    8/1024           64/8192     ( 0.8%) 
+surfedges           200427/512000     801708/2048000  (39.1%) 
+edges               122045/256000     488180/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2952/32768       29520/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51804/65536      103608/131072   (79.0%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10495124/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      304801/393216   (77.5%) 
+LDR ambient table    14262/65536       57048/262144   (21.8%) 
+HDR ambient table    14262/65536       57048/262144   (21.8%) 
+LDR leaf ambient     49103/65536     1374884/1835008  (74.9%) 
+HDR leaf ambient     14262/65536      399336/1835008  (21.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2594511/4194304  (61.9%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77723
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 44 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+No vis information, direct lighting only.
+27285 faces
+64 degenerate faces
+5309843 square feet [764617472.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0734 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6806/16384       81672/196608   (41.5%) 
+brushsides           60533/65536      484264/524288   (92.4%) VERY FULL!
+planes               52238/65536     1044760/1310720  (79.7%) 
+vertexes             49098/65536      589176/786432   (74.9%) 
+nodes                14018/65536      448576/2097152  (21.4%) 
+texinfos              7433/12288      535176/884736   (60.5%) 
+texdata                396/2048        12672/65536    (19.3%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27285/65536     1527960/3670016  (41.6%) 
+hdr faces            27285/65536     1527960/3670016  (41.6%) 
+origfaces            16810/65536      941360/3670016  (25.7%) 
+leaves               14262/65536      456384/2097152  (21.8%) 
+leaffaces            35311/65536       70622/131072   (53.9%) 
+leafbrushes          16555/65536       33110/131072   (25.3%) 
+areas                    8/1024           64/8192     ( 0.8%) 
+surfedges           200427/512000     801708/2048000  (39.1%) 
+edges               122045/256000     488180/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights        342/8192        30096/720896   ( 4.2%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2952/32768       29520/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51804/65536      103608/131072   (79.0%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10495124/0        ( 0.0%) 
+HDR lightdata         [variable]    10495124/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      304801/393216   (77.5%) 
+LDR ambient table    14262/65536       57048/262144   (21.8%) 
+HDR ambient table    14262/65536       57048/262144   (21.8%) 
+LDR leaf ambient     49103/65536     1374884/1835008  (74.9%) 
+HDR leaf ambient     48731/65536     1364468/1835008  (74.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2594511/4194304  (61.9%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77723
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 26 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: UNDERTALE/HOUSE/RAILING2
+Material not found!: CONCRETE/COMPUTERWALL005E
+Material not found!: CONCRETE/CONCRETEWALL008
+Material not found!: TEST/COLOR004
+Material not found!: SWAMP/BRICK/SWAMPCOBBLEWALL001
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3686.4)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4693.0 3685.3)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (6014.5 -4685.0 3692.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 3807: 
+
+Processing areas...done (0)
+Building Faces...error: material NATURE/ROCKFLOOR002A doesn't have a $bottommaterial
+done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2482 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (2594511 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 9220 texinfos to 7433
+Reduced 440 texdatas to 396 (14519 bytes to 12346)
+Writing D:\Workspace\Github Repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+9 seconds elapsed
+
+
+
+8 threads
+reading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+reading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.prt
+6736 portalclusters
+22387 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 415201 visible clusters (8.44%)
+Total clusters visible: 4919197
+Average clusters visible: 730
+Building PAS...
+Average clusters audible: 1419
+visdatasize:2328300  compressed from 11424256
+writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+27285 faces
+64 degenerate faces
+5309843 square feet [764617472.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+27221 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+373087 patches after subdivision
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 49991636, max 2569
+transfer lists: 381.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(nan, nan, nan)
+Build Patch/Sample Hash Table(s).....Done<0.1517 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6806/16384       81672/196608   (41.5%) 
+brushsides           60533/65536      484264/524288   (92.4%) VERY FULL!
+planes               52238/65536     1044760/1310720  (79.7%) 
+vertexes             49098/65536      589176/786432   (74.9%) 
+nodes                14018/65536      448576/2097152  (21.4%) 
+texinfos              7433/12288      535176/884736   (60.5%) 
+texdata                396/2048        12672/65536    (19.3%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27285/65536     1527960/3670016  (41.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            16810/65536      941360/3670016  (25.7%) 
+leaves               14262/65536      456384/2097152  (21.8%) 
+leaffaces            35311/65536       70622/131072   (53.9%) 
+leafbrushes          16555/65536       33110/131072   (25.3%) 
+areas                    8/1024           64/8192     ( 0.8%) 
+surfedges           200427/512000     801708/2048000  (39.1%) 
+edges               122045/256000     488180/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2952/32768       29520/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51804/65536      103608/131072   (79.0%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10446612/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2328300/16777216 (13.9%) 
+entdata               [variable]      304801/393216   (77.5%) 
+LDR ambient table    14262/65536       57048/262144   (21.8%) 
+HDR ambient table    14262/65536       57048/262144   (21.8%) 
+LDR leaf ambient     47040/65536     1317120/1835008  (71.8%) 
+HDR leaf ambient     14262/65536      399336/1835008  (21.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2594511/4194304  (61.9%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77723
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 38 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+PREP OK
+27285 faces
+64 degenerate faces
+5309843 square feet [764617472.00 square inches]
+95 Displacements
+91636 Square Feet [13195689.00 Square Inches]
+27221 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+373087 patches after subdivision
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+342 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 49991636, max 2569
+transfer lists: 381.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #92 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #93 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #94 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #95 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #96 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #97 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #98 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #99 added RGB(nan, nan, nan)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #100 added RGB(nan, nan, nan)
+Build Patch/Sample Hash Table(s).....Done<0.1761 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+75 of 75 (100% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 243/1024        11664/49152    (23.7%) 
+brushes               6806/16384       81672/196608   (41.5%) 
+brushsides           60533/65536      484264/524288   (92.4%) VERY FULL!
+planes               52238/65536     1044760/1310720  (79.7%) 
+vertexes             49098/65536      589176/786432   (74.9%) 
+nodes                14018/65536      448576/2097152  (21.4%) 
+texinfos              7433/12288      535176/884736   (60.5%) 
+texdata                396/2048        12672/65536    (19.3%) 
+dispinfos               95/0           16720/0        ( 0.0%) 
+disp_verts            5063/0          101260/0        ( 0.0%) 
+disp_tris             7648/0           15296/0        ( 0.0%) 
+disp_lmsamples       93112/0           93112/0        ( 0.0%) 
+faces                27285/65536     1527960/3670016  (41.6%) 
+hdr faces            27285/65536     1527960/3670016  (41.6%) 
+origfaces            16810/65536      941360/3670016  (25.7%) 
+leaves               14262/65536      456384/2097152  (21.8%) 
+leaffaces            35311/65536       70622/131072   (53.9%) 
+leafbrushes          16555/65536       33110/131072   (25.3%) 
+areas                    8/1024           64/8192     ( 0.8%) 
+surfedges           200427/512000     801708/2048000  (39.1%) 
+edges               122045/256000     488180/1024000  (47.7%) 
+LDR worldlights        342/8192        30096/720896   ( 4.2%) 
+HDR worldlights        342/8192        30096/720896   ( 4.2%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           2952/32768       29520/327680   ( 9.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         51804/65536      103608/131072   (79.0%) 
+cubemapsamples           8/1024          128/16384    ( 0.8%) 
+overlays                38/512         13376/180224   ( 7.4%) 
+LDR lightdata         [variable]    10446612/0        ( 0.0%) 
+HDR lightdata         [variable]    10446612/0        ( 0.0%) 
+visdata               [variable]     2328300/16777216 (13.9%) 
+entdata               [variable]      304801/393216   (77.5%) 
+LDR ambient table    14262/65536       57048/262144   (21.8%) 
+HDR ambient table    14262/65536       57048/262144   (21.8%) 
+LDR leaf ambient     47040/65536     1317120/1835008  (71.8%) 
+HDR leaf ambient     46691/65536     1307348/1835008  (71.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/20288    ( 0.0%) 
+pakfile               [variable]      101001/0        ( 0.0%) 
+physics               [variable]     2594511/4194304  (61.9%) 
+physics terrain       [variable]       21725/1048576  ( 2.1%) 
+
+Level flags = 0
+
+Total triangle count: 77723
+Writing d:\workspace\github repositories\rp_undertale_republic\rp_underrune_smurf.bsp
+1 minute, 27 seconds elapsed
