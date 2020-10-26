@@ -1,0 +1,664 @@
+
+
+
+materialPath: E:\Steam_Central\steamapps\common\GarrysMod\garrysmod\materials
+Loading e:\underrune_fixin\rp_underrune_ghmr61.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3444 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing e:\underrune_fixin\rp_underrune_ghmr61.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (1462852 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4445 texinfos to 3643
+Reduced 222 texdatas to 204 (6200 bytes to 5362)
+Writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+8 seconds elapsed
+
+
+
+8 threads
+reading e:\underrune_fixin\rp_underrune_ghmr61.bsp
+reading e:\underrune_fixin\rp_underrune_ghmr61.prt
+1400 portalclusters
+3962 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 99043 visible clusters (7.37%)
+Total clusters visible: 1343389
+Average clusters visible: 959
+Building PAS...
+Average clusters audible: 1261
+visdatasize:446997  compressed from 492800
+writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\underrune_fixin\rp_underrune_ghmr61.bsp
+PREP OK
+13346 faces
+25 degenerate faces
+2280063 square feet [328329088.00 square inches]
+61 Displacements
+51806 Square Feet [7460122.00 Square Inches]
+13321 patches before subdivision
+183641 patches after subdivision
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+169 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 28908052, max 2404
+transfer lists: 220.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1115156, 845513, 1122419)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(291140, 121971, 136365)
+Build Patch/Sample Hash Table(s).....Done<0.0638 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  95/4096         4560/196608   ( 2.3%) 
+brushes               3706/16384       44472/196608   (22.6%) 
+brushsides           31403/65536      251224/524288   (47.9%) 
+planes               19656/65536      393120/1310720  (30.0%) 
+vertexes             23143/65536      277716/786432   (35.3%) 
+nodes                 3797/65536      121504/2097152  ( 5.8%) 
+texinfos              3643/12288      262296/884736   (29.6%) 
+texdata                204/2048         6528/65536    (10.0%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            2925/0           58500/0        ( 0.0%) 
+disp_tris             4352/0            8704/0        ( 0.0%) 
+disp_lmsamples       53372/0           53372/0        ( 0.0%) 
+faces                13346/65536      747376/3670016  (20.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             9882/65536      553392/3670016  (15.1%) 
+leaves                3893/65536      124576/2097152  ( 5.9%) 
+leaffaces            16198/65536       32396/131072   (24.7%) 
+leafbrushes           6874/65536       13748/131072   (10.5%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges           105979/512000     423916/2048000  (20.7%) 
+edges                66328/256000     265312/1024000  (25.9%) 
+LDR worldlights        169/8192        14872/720896   ( 2.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips           1639/32768       16390/327680   ( 5.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         31182/65536       62364/131072   (47.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                45/512         15840/180224   ( 8.8%) 
+LDR lightdata         [variable]     4923012/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      446997/16777216 ( 2.7%) 
+entdata               [variable]      167161/393216   (42.5%) 
+LDR ambient table     3893/65536       15572/262144   ( 5.9%) 
+HDR ambient table     3893/65536       15572/262144   ( 5.9%) 
+LDR leaf ambient     15498/65536      433944/1835008  (23.6%) 
+HDR leaf ambient      3893/65536      109004/1835008  ( 5.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/23542    ( 0.0%) 
+pakfile               [variable]      177656/0        ( 0.0%) 
+physics               [variable]     1462852/4194304  (34.9%) 
+physics terrain       [variable]       13623/1048576  ( 1.3%) 
+
+Level flags = 0
+
+Total triangle count: 38956
+Writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+1 minute, 12 seconds elapsed
+
+
+
+materialPath: E:\Steam_Central\steamapps\common\GarrysMod\garrysmod\materials
+Loading e:\underrune_fixin\rp_underrune_ghmr61.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3444 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing e:\underrune_fixin\rp_underrune_ghmr61.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1466947 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4450 texinfos to 3648
+Reduced 222 texdatas to 204 (6200 bytes to 5362)
+Writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+7 seconds elapsed
+
+
+
+8 threads
+reading e:\underrune_fixin\rp_underrune_ghmr61.bsp
+reading e:\underrune_fixin\rp_underrune_ghmr61.prt
+1418 portalclusters
+4022 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 99043 visible clusters (7.37%)
+Total clusters visible: 1343857
+Average clusters visible: 947
+Building PAS...
+Average clusters audible: 1245
+visdatasize:450548  compressed from 521824
+writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\underrune_fixin\rp_underrune_ghmr61.bsp
+PREP OK
+13401 faces
+25 degenerate faces
+2280112 square feet [328336128.00 square inches]
+61 Displacements
+51806 Square Feet [7460122.00 Square Inches]
+13376 patches before subdivision
+183644 patches after subdivision
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+173 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 28920936, max 2404
+transfer lists: 220.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1125034, 852491, 1119869)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(293412, 122919, 135410)
+Build Patch/Sample Hash Table(s).....Done<0.0490 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  96/4096         4608/196608   ( 2.3%) 
+brushes               3714/16384       44568/196608   (22.7%) 
+brushsides           31487/65536      251896/524288   (48.0%) 
+planes               19760/65536      395200/1310720  (30.2%) 
+vertexes             23217/65536      278604/786432   (35.4%) 
+nodes                 3826/65536      122432/2097152  ( 5.8%) 
+texinfos              3648/12288      262656/884736   (29.7%) 
+texdata                204/2048         6528/65536    (10.0%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            2925/0           58500/0        ( 0.0%) 
+disp_tris             4352/0            8704/0        ( 0.0%) 
+disp_lmsamples       53372/0           53372/0        ( 0.0%) 
+faces                13401/65536      750456/3670016  (20.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             9932/65536      556192/3670016  (15.2%) 
+leaves                3923/65536      125536/2097152  ( 6.0%) 
+leaffaces            16265/65536       32530/131072   (24.8%) 
+leafbrushes           6892/65536       13784/131072   (10.5%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges           106429/512000     425716/2048000  (20.8%) 
+edges                66564/256000     266256/1024000  (26.0%) 
+LDR worldlights        173/8192        15224/720896   ( 2.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips           1640/32768       16400/327680   ( 5.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         31194/65536       62388/131072   (47.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                45/512         15840/180224   ( 8.8%) 
+LDR lightdata         [variable]     4924280/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      450548/16777216 ( 2.7%) 
+entdata               [variable]      170395/393216   (43.3%) 
+LDR ambient table     3923/65536       15692/262144   ( 6.0%) 
+HDR ambient table     3923/65536       15692/262144   ( 6.0%) 
+LDR leaf ambient     15627/65536      437556/1835008  (23.8%) 
+HDR leaf ambient      3923/65536      109844/1835008  ( 6.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/23674    ( 0.0%) 
+pakfile               [variable]      177656/0        ( 0.0%) 
+physics               [variable]     1466947/4194304  (35.0%) 
+physics terrain       [variable]       13623/1048576  ( 1.3%) 
+
+Level flags = 0
+
+Total triangle count: 39090
+Writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+1 minute, 12 seconds elapsed
+
+
+
+materialPath: E:\Steam_Central\steamapps\common\GarrysMod\garrysmod\materials
+Loading e:\underrune_fixin\rp_underrune_ghmr61.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 3444 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing e:\underrune_fixin\rp_underrune_ghmr61.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (1466947 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4450 texinfos to 3648
+Reduced 223 texdatas to 205 (6236 bytes to 5398)
+Writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+15 seconds elapsed
+
+
+
+8 threads
+reading e:\underrune_fixin\rp_underrune_ghmr61.bsp
+reading e:\underrune_fixin\rp_underrune_ghmr61.prt
+1418 portalclusters
+4022 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 99043 visible clusters (7.37%)
+Total clusters visible: 1343857
+Average clusters visible: 947
+Building PAS...
+Average clusters audible: 1245
+visdatasize:450548  compressed from 521824
+writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\underrune_fixin\rp_underrune_ghmr61.bsp
+PREP OK
+13401 faces
+25 degenerate faces
+2280112 square feet [328336128.00 square inches]
+61 Displacements
+51806 Square Feet [7460122.00 Square Inches]
+13376 patches before subdivision
+183644 patches after subdivision
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+171 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 28920936, max 2404
+transfer lists: 220.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1105888, 836644, 1105221)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(287970, 119347, 132396)
+Build Patch/Sample Hash Table(s).....Done<0.0490 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  96/4096         4608/196608   ( 2.3%) 
+brushes               3714/16384       44568/196608   (22.7%) 
+brushsides           31487/65536      251896/524288   (48.0%) 
+planes               19760/65536      395200/1310720  (30.2%) 
+vertexes             23217/65536      278604/786432   (35.4%) 
+nodes                 3826/65536      122432/2097152  ( 5.8%) 
+texinfos              3648/12288      262656/884736   (29.7%) 
+texdata                205/2048         6560/65536    (10.0%) 
+dispinfos               61/0           10736/0        ( 0.0%) 
+disp_verts            2925/0           58500/0        ( 0.0%) 
+disp_tris             4352/0            8704/0        ( 0.0%) 
+disp_lmsamples       53372/0           53372/0        ( 0.0%) 
+faces                13401/65536      750456/3670016  (20.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             9932/65536      556192/3670016  (15.2%) 
+leaves                3923/65536      125536/2097152  ( 6.0%) 
+leaffaces            16265/65536       32530/131072   (24.8%) 
+leafbrushes           6892/65536       13784/131072   (10.5%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges           106429/512000     425716/2048000  (20.8%) 
+edges                66564/256000     266256/1024000  (26.0%) 
+LDR worldlights        171/8192        15048/720896   ( 2.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips           1640/32768       16400/327680   ( 5.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         31194/65536       62388/131072   (47.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                45/512         15840/180224   ( 8.8%) 
+LDR lightdata         [variable]     4924280/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      450548/16777216 ( 2.7%) 
+entdata               [variable]      170046/393216   (43.2%) 
+LDR ambient table     3923/65536       15692/262144   ( 6.0%) 
+HDR ambient table     3923/65536       15692/262144   ( 6.0%) 
+LDR leaf ambient     15627/65536      437556/1835008  (23.8%) 
+HDR leaf ambient      3923/65536      109844/1835008  ( 6.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/23674    ( 0.0%) 
+pakfile               [variable]      177656/0        ( 0.0%) 
+physics               [variable]     1466947/4194304  (35.0%) 
+physics terrain       [variable]       13623/1048576  ( 1.3%) 
+
+Level flags = 0
+
+Total triangle count: 39090
+Writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+1 minute, 10 seconds elapsed
+
+
+
+materialPath: E:\Steam_Central\steamapps\common\GarrysMod\garrysmod\materials
+Loading e:\underrune_fixin\rp_underrune_ghmr61.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 4584 detail faces...done (2)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+writing e:\underrune_fixin\rp_underrune_ghmr61.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (5) (2363320 bytes)
+WARNING! model "models/saintblue/undertale/asgorethrone.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6961 texinfos to 5240
+Reduced 428 texdatas to 405 (12289 bytes to 11233)
+Writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+25 seconds elapsed
+
+
+
+8 threads
+reading e:\underrune_fixin\rp_underrune_ghmr61.bsp
+reading e:\underrune_fixin\rp_underrune_ghmr61.prt
+2379 portalclusters
+6289 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 122761 visible clusters (7.99%)
+Total clusters visible: 1536408
+Average clusters visible: 645
+Building PAS...
+Average clusters audible: 901
+visdatasize:589347  compressed from 1446432
+writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\underrune_fixin\rp_underrune_ghmr61.bsp
+PREP OK
+Warning! Invalid model version "models/saintblue/undertale/asgorethrone.mdl"
+22502 faces
+27 degenerate faces
+4147029 square feet [597172224.00 square inches]
+63 Displacements
+53539 Square Feet [7709664.00 Square Inches]
+22475 patches before subdivision
+314461 patches after subdivision
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+364 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 41744160, max 2404
+transfer lists: 318.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2252380, 1365067, 1476692)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(818659, 286290, 192007)
+Build Patch/Sample Hash Table(s).....Done<0.1116 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+21 of 55 (38% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 271/4096        13008/196608   ( 6.6%) 
+brushes               5951/16384       71412/196608   (36.3%) 
+brushsides           50978/65536      407824/524288   (77.8%) 
+planes               35498/65536      709960/1310720  (54.2%) 
+vertexes             38906/65536      466872/786432   (59.4%) 
+nodes                 7556/65536      241792/2097152  (11.5%) 
+texinfos              5240/12288      377280/884736   (42.6%) 
+texdata                405/2048        12960/65536    (19.8%) 
+dispinfos               63/0           11088/0        ( 0.0%) 
+disp_verts            3087/0           61740/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_lmsamples       57948/0           57948/0        ( 0.0%) 
+faces                22502/65536     1260112/3670016  (34.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            16471/65536      922376/3670016  (25.1%) 
+leaves                7828/65536      250496/2097152  (11.9%) 
+leaffaces            27122/65536       54244/131072   (41.4%) 
+leafbrushes          10812/65536       21624/131072   (16.5%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges           176171/512000     704684/2048000  (34.4%) 
+edges               109080/256000     436320/1024000  (42.6%) 
+LDR worldlights        364/8192        32032/720896   ( 4.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata           10/32768         120/393216   ( 0.0%) 
+waterstrips           2405/32768       24050/327680   ( 7.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         45828/65536       91656/131072   (69.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                58/512         20416/180224   (11.3%) 
+LDR lightdata         [variable]     8277820/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      589347/16777216 ( 3.5%) 
+entdata               [variable]      343992/393216   (87.5%) VERY FULL!
+LDR ambient table     7828/65536       31312/262144   (11.9%) 
+HDR ambient table     7828/65536       31312/262144   (11.9%) 
+LDR leaf ambient     26395/65536      739060/1835008  (40.3%) 
+HDR leaf ambient      7828/65536      219184/1835008  (11.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/26250    ( 0.0%) 
+pakfile               [variable]      178881/0        ( 0.0%) 
+physics               [variable]     2363320/4194304  (56.3%) 
+physics terrain       [variable]       14023/1048576  ( 1.3%) 
+
+Level flags = 0
+
+Total triangle count: 63969
+Writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+1 minute, 41 seconds elapsed
+
+
+
+materialPath: E:\Steam_Central\steamapps\common\GarrysMod\garrysmod\materials
+Loading e:\underrune_fixin\rp_underrune_ghmr61.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 4584 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing e:\underrune_fixin\rp_underrune_ghmr61.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (4) (2363320 bytes)
+WARNING! model "models/saintblue/undertale/asgorethrone.mdl" has mismatching model version (49, expected 48)! Expect problems.
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6961 texinfos to 5240
+Reduced 429 texdatas to 406 (12325 bytes to 11269)
+Writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+17 seconds elapsed
+
+
+
+8 threads
+reading e:\underrune_fixin\rp_underrune_ghmr61.bsp
+reading e:\underrune_fixin\rp_underrune_ghmr61.prt
+2379 portalclusters
+6289 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 122761 visible clusters (7.99%)
+Total clusters visible: 1536408
+Average clusters visible: 645
+Building PAS...
+Average clusters audible: 901
+visdatasize:589347  compressed from 1446432
+writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\underrune_fixin\rp_underrune_ghmr61.bsp
+PREP OK
+Warning! Invalid model version "models/saintblue/undertale/asgorethrone.mdl"
+22502 faces
+27 degenerate faces
+4147029 square feet [597172224.00 square inches]
+63 Displacements
+53539 Square Feet [7709664.00 Square Inches]
+22475 patches before subdivision
+314461 patches after subdivision
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+364 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 41744160, max 2404
+transfer lists: 318.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2252430, 1365142, 1476750)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(818686, 286324, 192032)
+Build Patch/Sample Hash Table(s).....Done<0.1505 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+21 of 55 (38% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 271/4096        13008/196608   ( 6.6%) 
+brushes               5951/16384       71412/196608   (36.3%) 
+brushsides           50978/65536      407824/524288   (77.8%) 
+planes               35498/65536      709960/1310720  (54.2%) 
+vertexes             38906/65536      466872/786432   (59.4%) 
+nodes                 7556/65536      241792/2097152  (11.5%) 
+texinfos              5240/12288      377280/884736   (42.6%) 
+texdata                406/2048        12992/65536    (19.8%) 
+dispinfos               63/0           11088/0        ( 0.0%) 
+disp_verts            3087/0           61740/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_lmsamples       57948/0           57948/0        ( 0.0%) 
+faces                22502/65536     1260112/3670016  (34.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            16471/65536      922376/3670016  (25.1%) 
+leaves                7828/65536      250496/2097152  (11.9%) 
+leaffaces            27122/65536       54244/131072   (41.4%) 
+leafbrushes          10812/65536       21624/131072   (16.5%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges           176171/512000     704684/2048000  (34.4%) 
+edges               109080/256000     436320/1024000  (42.6%) 
+LDR worldlights        364/8192        32032/720896   ( 4.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata           10/32768         120/393216   ( 0.0%) 
+waterstrips           2405/32768       24050/327680   ( 7.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         45828/65536       91656/131072   (69.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                58/512         20416/180224   (11.3%) 
+LDR lightdata         [variable]     8277820/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      589347/16777216 ( 3.5%) 
+entdata               [variable]      343992/393216   (87.5%) VERY FULL!
+LDR ambient table     7828/65536       31312/262144   (11.9%) 
+HDR ambient table     7828/65536       31312/262144   (11.9%) 
+LDR leaf ambient     26395/65536      739060/1835008  (40.3%) 
+HDR leaf ambient      7828/65536      219184/1835008  (11.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/26250    ( 0.0%) 
+pakfile               [variable]      178881/0        ( 0.0%) 
+physics               [variable]     2363320/4194304  (56.3%) 
+physics terrain       [variable]       14023/1048576  ( 1.3%) 
+
+Level flags = 0
+
+Total triangle count: 63969
+Writing e:\underrune_fixin\rp_underrune_ghmr61.bsp
+1 minute, 38 seconds elapsed
