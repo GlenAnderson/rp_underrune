@@ -1,4 +1,4 @@
-# rp_snowdintown_v1
+# rp_snowdintown
 ### DarkRP map for Garry's Mod based on Snowdin from the Undertale universe.
 
 Also known as: rp_undertale_republic, rp_underrune, rp_underrune_ghmr[#]
