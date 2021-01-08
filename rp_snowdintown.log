@@ -20866,3 +20866,925 @@ Level flags = 0
 Total triangle count: 13674
 Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
 8 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (10720.00 8864.00 4680.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 10752.0 4008.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7680.0 11264.0 4008.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7168.0 10752.0 4008.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7968.0 9216.0 4008.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (7560.0 9216.0 4008.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8080.0 9216.0 4008.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8184.0 9216.0 4008.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (8192.0 9728.0 3856.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 762 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_09 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_09 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (736133 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3531 texinfos to 1633
+Reduced 301 texdatas to 246 (13029 bytes to 10735)
+Writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+5 seconds elapsed
+
+
+
+16 threads
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt
+LoadPortals: couldn't read c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+No vis information, direct lighting only.
+5447 faces
+1 degenerate faces
+326368 square feet [46997120.00 square inches]
+2 Displacements
+1564 Square Feet [225311.03 Square Inches]
+192 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0108 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 187/4096         8976/196608   ( 4.6%) 
+brushes               1950/16384       23400/196608   (11.9%) 
+brushsides           13251/65536      106008/524288   (20.2%) 
+planes                7288/65536      145760/1310720  (11.1%) 
+vertexes             12030/65536      144360/786432   (18.4%) 
+nodes                 5126/65536      164032/2097152  ( 7.8%) 
+texinfos              1633/12288      117576/884736   (13.3%) 
+texdata                246/2048         7872/65536    (12.0%) 
+dispinfos                2/0             352/0        ( 0.0%) 
+disp_verts             162/0            3240/0        ( 0.0%) 
+disp_tris              256/0             512/0        ( 0.0%) 
+disp_lmsamples        4224/0            4224/0        ( 0.0%) 
+faces                 5447/65536      305032/3670016  ( 8.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4170/65536      233520/3670016  ( 6.4%) 
+leaves                5314/65536      170048/2097152  ( 8.1%) 
+leaffaces             6163/65536       12326/131072   ( 9.4%) 
+leafbrushes           2856/65536        5712/131072   ( 4.4%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            42965/512000     171860/2048000  ( 8.4%) 
+edges                27255/256000     109020/1024000  (10.6%) 
+LDR worldlights        192/8192        16896/720896   ( 2.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            6/32768          72/393216   ( 0.0%) 
+waterstrips            659/32768        6590/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11769/65536       23538/131072   (18.0%) 
+cubemapsamples          41/1024          656/16384    ( 4.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2562324/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      250169/393216   (63.6%) 
+LDR ambient table     5314/65536       21256/262144   ( 8.1%) 
+HDR ambient table     5314/65536       21256/262144   ( 8.1%) 
+LDR leaf ambient     17774/65536      497672/1835008  (27.1%) 
+HDR leaf ambient      5314/65536      148792/1835008  ( 8.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/7214     ( 0.0%) 
+pakfile               [variable]      409179/0        ( 0.0%) 
+physics               [variable]      736133/4194304  (17.6%) 
+physics terrain       [variable]         430/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15184
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+10 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+No vis information, direct lighting only.
+5447 faces
+1 degenerate faces
+326368 square feet [46997120.00 square inches]
+2 Displacements
+1564 Square Feet [225311.03 Square Inches]
+192 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0107 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 187/4096         8976/196608   ( 4.6%) 
+brushes               1950/16384       23400/196608   (11.9%) 
+brushsides           13251/65536      106008/524288   (20.2%) 
+planes                7288/65536      145760/1310720  (11.1%) 
+vertexes             12030/65536      144360/786432   (18.4%) 
+nodes                 5126/65536      164032/2097152  ( 7.8%) 
+texinfos              1633/12288      117576/884736   (13.3%) 
+texdata                246/2048         7872/65536    (12.0%) 
+dispinfos                2/0             352/0        ( 0.0%) 
+disp_verts             162/0            3240/0        ( 0.0%) 
+disp_tris              256/0             512/0        ( 0.0%) 
+disp_lmsamples        4224/0            4224/0        ( 0.0%) 
+faces                 5447/65536      305032/3670016  ( 8.3%) 
+hdr faces             5447/65536      305032/3670016  ( 8.3%) 
+origfaces             4170/65536      233520/3670016  ( 6.4%) 
+leaves                5314/65536      170048/2097152  ( 8.1%) 
+leaffaces             6163/65536       12326/131072   ( 9.4%) 
+leafbrushes           2856/65536        5712/131072   ( 4.4%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            42965/512000     171860/2048000  ( 8.4%) 
+edges                27255/256000     109020/1024000  (10.6%) 
+LDR worldlights        192/8192        16896/720896   ( 2.3%) 
+HDR worldlights        192/8192        16896/720896   ( 2.3%) 
+leafwaterdata            6/32768          72/393216   ( 0.0%) 
+waterstrips            659/32768        6590/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         11769/65536       23538/131072   (18.0%) 
+cubemapsamples          41/1024          656/16384    ( 4.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2562324/0        ( 0.0%) 
+HDR lightdata         [variable]     2562324/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      250169/393216   (63.6%) 
+LDR ambient table     5314/65536       21256/262144   ( 8.1%) 
+HDR ambient table     5314/65536       21256/262144   ( 8.1%) 
+LDR leaf ambient     17774/65536      497672/1835008  (27.1%) 
+HDR leaf ambient     17204/65536      481712/1835008  (26.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/7214     ( 0.0%) 
+pakfile               [variable]      409179/0        ( 0.0%) 
+physics               [variable]      736133/4194304  (17.6%) 
+physics terrain       [variable]         430/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 15184
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: AJACKS/BEN_BLACKMETAL
+Material not found!: GASTER_DOOR/1
+Material not found!: GASTER_DOOR/4
+Material not found!: GASTER_DOOR/2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_hurt (10720.00 8864.00 4680.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 10752.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 11264.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 11264.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 9728.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 8704.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 7680.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 10320.0 4688.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 10832.0 4688.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 5116 detail faces...done (1)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (4)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_09 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_09 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (2899882 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10363 texinfos to 6785
+Reduced 751 texdatas to 654 (29637 bytes to 25546)
+Writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+20 seconds elapsed
+
+
+
+16 threads
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt
+LoadPortals: couldn't read c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+No vis information, direct lighting only.
+25936 faces
+24 degenerate faces
+3747915 square feet [539699840.00 square inches]
+65 Displacements
+55104 Square Feet [7934977.50 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+516 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0680 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+16 of 50 (32% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 423/4096        20304/196608   (10.3%) 
+brushes               7324/16384       87888/196608   (44.7%) 
+brushsides           60443/65536      483544/524288   (92.2%) VERY FULL!
+planes               40608/65536      812160/1310720  (62.0%) 
+vertexes             51160/65536      613920/786432   (78.1%) 
+nodes                16084/65536      514688/2097152  (24.5%) 
+texinfos              6785/12288      488520/884736   (55.2%) 
+texdata                654/2048        20928/65536    (31.9%) 
+dispinfos               65/0           11440/0        ( 0.0%) 
+disp_verts            3249/0           64980/0        ( 0.0%) 
+disp_tris             4864/0            9728/0        ( 0.0%) 
+disp_lmsamples       62172/0           62172/0        ( 0.0%) 
+faces                25936/65536     1452416/3670016  (39.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19447/65536     1089032/3670016  (29.7%) 
+leaves               16508/65536      528256/2097152  (25.2%) 
+leaffaces            30980/65536       61960/131072   (47.3%) 
+leafbrushes          11706/65536       23412/131072   (17.9%) 
+areas                   10/1024           80/8192     ( 1.0%) 
+surfedges           205091/512000     820364/2048000  (40.1%) 
+edges               127951/256000     511804/1024000  (50.0%) 
+LDR worldlights        515/8192        45320/720896   ( 6.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata           16/32768         192/393216   ( 0.0%) 
+waterstrips           3146/32768       31460/327680   ( 9.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         58290/65536      116580/131072   (88.9%) VERY FULL!
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                55/512         19360/180224   (10.7%) 
+LDR lightdata         [variable]     9716528/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      570464/393216   (145.1%) VERY FULL!
+LDR ambient table    16508/65536       66032/262144   (25.2%) 
+HDR ambient table    16508/65536       66032/262144   (25.2%) 
+LDR leaf ambient     78599/65536     2200772/1835008  (119.9%) VERY FULL!
+HDR leaf ambient     16508/65536      462224/1835008  (25.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24472    ( 0.0%) 
+pakfile               [variable]      536673/0        ( 0.0%) 
+physics               [variable]     2899882/4194304  (69.1%) 
+physics terrain       [variable]       14311/1048576  ( 1.4%) 
+
+Level flags = 0
+
+Total triangle count: 73936
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+3 minutes, 24 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+No vis information, direct lighting only.
+25936 faces
+24 degenerate faces
+3747915 square feet [539699840.00 square inches]
+65 Displacements
+55104 Square Feet [7934977.50 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+516 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0750 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+16 of 50 (32% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 423/4096        20304/196608   (10.3%) 
+brushes               7324/16384       87888/196608   (44.7%) 
+brushsides           60443/65536      483544/524288   (92.2%) VERY FULL!
+planes               40608/65536      812160/1310720  (62.0%) 
+vertexes             51160/65536      613920/786432   (78.1%) 
+nodes                16084/65536      514688/2097152  (24.5%) 
+texinfos              6785/12288      488520/884736   (55.2%) 
+texdata                654/2048        20928/65536    (31.9%) 
+dispinfos               65/0           11440/0        ( 0.0%) 
+disp_verts            3249/0           64980/0        ( 0.0%) 
+disp_tris             4864/0            9728/0        ( 0.0%) 
+disp_lmsamples       62172/0           62172/0        ( 0.0%) 
+faces                25936/65536     1452416/3670016  (39.6%) 
+hdr faces            25936/65536     1452416/3670016  (39.6%) 
+origfaces            19447/65536     1089032/3670016  (29.7%) 
+leaves               16508/65536      528256/2097152  (25.2%) 
+leaffaces            30980/65536       61960/131072   (47.3%) 
+leafbrushes          11706/65536       23412/131072   (17.9%) 
+areas                   10/1024           80/8192     ( 1.0%) 
+surfedges           205091/512000     820364/2048000  (40.1%) 
+edges               127951/256000     511804/1024000  (50.0%) 
+LDR worldlights        515/8192        45320/720896   ( 6.3%) 
+HDR worldlights        515/8192        45320/720896   ( 6.3%) 
+leafwaterdata           16/32768         192/393216   ( 0.0%) 
+waterstrips           3146/32768       31460/327680   ( 9.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         58290/65536      116580/131072   (88.9%) VERY FULL!
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                55/512         19360/180224   (10.7%) 
+LDR lightdata         [variable]     9716528/0        ( 0.0%) 
+HDR lightdata         [variable]     9716528/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      570464/393216   (145.1%) VERY FULL!
+LDR ambient table    16508/65536       66032/262144   (25.2%) 
+HDR ambient table    16508/65536       66032/262144   (25.2%) 
+LDR leaf ambient     78599/65536     2200772/1835008  (119.9%) VERY FULL!
+HDR leaf ambient     77698/65536     2175544/1835008  (118.6%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24472    ( 0.0%) 
+pakfile               [variable]      536673/0        ( 0.0%) 
+physics               [variable]     2899882/4194304  (69.1%) 
+physics terrain       [variable]       14311/1048576  ( 1.4%) 
+
+Level flags = 0
+
+Total triangle count: 73936
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+3 minutes, 9 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: AJACKS/BEN_BLACKMETAL
+Material not found!: GASTER_DOOR/1
+Material not found!: GASTER_DOOR/4
+Material not found!: GASTER_DOOR/2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 5116 detail faces...done (1)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (4)
+writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_09 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_09 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (4) (2900258 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10374 texinfos to 6772
+Reduced 751 texdatas to 653 (29637 bytes to 25488)
+Writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+21 seconds elapsed
+
+
+
+16 threads
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt
+2526 portalclusters
+6442 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 71879 visible clusters (5.81%)
+Total clusters visible: 1237813
+Average clusters visible: 490
+Building PAS...
+Average clusters audible: 794
+visdatasize:536597  compressed from 1616640
+writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+25539 faces
+23 degenerate faces
+3665585 square feet [527844352.00 square inches]
+65 Displacements
+55103 Square Feet [7934975.50 Square Inches]
+25516 patches before subdivision
+Zero area child patch at around 1956.083374 6541.000000 -8444.002930
+304012 patches after subdivision
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+516 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 40445247, max 2442
+transfer lists: 308.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3188517, 1713181, 2770386)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1063166, 330441, 671493)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(460835, 113658, 230329)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(233562, 55530, 83551)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(138818, 32238, 32504)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(92705, 20095, 13302)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(67464, 12949, 5855)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(51727, 8490, 2786)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(41006, 5626, 1441)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(33176, 3754, 802)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27212, 2519, 473)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(22538, 1697, 291)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(18803, 1147, 184)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15777, 777, 119)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(13301, 528, 77)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(11258, 360, 51)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(9563, 246, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(8147, 168, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(6959, 115, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(5959, 79, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5113, 54, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(4396, 37, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(3786, 26, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3267, 18, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2822, 12, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2442, 8, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2115, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1835, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1593, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1385, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1204, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1049, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(914, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(797, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(696, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(608, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(531, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(464, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(406, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(356, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(312, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(273, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(239, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(210, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(184, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(162, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(142, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(125, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(110, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(96, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(85, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(75, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(58, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(51, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(45, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(39, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(35, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(31, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(27, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(24, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(21, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(18, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(16, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1890 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+16 of 50 (32% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 423/4096        20304/196608   (10.3%) 
+brushes               7326/16384       87912/196608   (44.7%) 
+brushsides           60456/65536      483648/524288   (92.2%) VERY FULL!
+planes               40612/65536      812240/1310720  (62.0%) 
+vertexes             44520/65536      534240/786432   (67.9%) 
+nodes                 9739/65536      311648/2097152  (14.9%) 
+texinfos              6772/12288      487584/884736   (55.1%) 
+texdata                653/2048        20896/65536    (31.9%) 
+dispinfos               65/0           11440/0        ( 0.0%) 
+disp_verts            3249/0           64980/0        ( 0.0%) 
+disp_tris             4864/0            9728/0        ( 0.0%) 
+disp_lmsamples       62172/0           62172/0        ( 0.0%) 
+faces                25539/65536     1430184/3670016  (39.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19235/65536     1077160/3670016  (29.4%) 
+leaves               10163/65536      325216/2097152  (15.5%) 
+leaffaces            29667/65536       59334/131072   (45.3%) 
+leafbrushes          12586/65536       25172/131072   (19.2%) 
+areas                   10/1024           80/8192     ( 1.0%) 
+surfedges           202293/512000     809172/2048000  (39.5%) 
+edges               125769/256000     503076/1024000  (49.1%) 
+LDR worldlights        515/8192        45320/720896   ( 6.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata           16/32768         192/393216   ( 0.0%) 
+waterstrips           2603/32768       26030/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         49191/65536       98382/131072   (75.1%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                55/512         19360/180224   (10.7%) 
+LDR lightdata         [variable]     9463464/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      536597/16777216 ( 3.2%) 
+entdata               [variable]      570302/393216   (145.0%) VERY FULL!
+LDR ambient table    10163/65536       40652/262144   (15.5%) 
+HDR ambient table    10163/65536       40652/262144   (15.5%) 
+LDR leaf ambient     29899/65536      837172/1835008  (45.6%) 
+HDR leaf ambient     10163/65536      284564/1835008  (15.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24368    ( 0.0%) 
+pakfile               [variable]      536673/0        ( 0.0%) 
+physics               [variable]     2900258/4194304  (69.1%) 
+physics terrain       [variable]       14311/1048576  ( 1.4%) 
+
+Level flags = 0
+
+Total triangle count: 72782
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+1 minute, 44 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+25539 faces
+23 degenerate faces
+3665585 square feet [527844352.00 square inches]
+65 Displacements
+55103 Square Feet [7934975.50 Square Inches]
+25516 patches before subdivision
+Zero area child patch at around 1956.083374 6541.000000 -8444.002930
+304012 patches after subdivision
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+516 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 40445247, max 2442
+transfer lists: 308.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1436606, 935662, 1142207)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(490586, 205474, 192035)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(255319, 90071, 59552)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(158719, 50057, 22271)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(110528, 30697, 9953)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(81705, 19560, 5011)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(62918, 12719, 2779)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(49685, 8374, 1642)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(39965, 5560, 1013)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(32570, 3714, 641)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(26814, 2494, 412)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(22251, 1681, 268)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(18586, 1137, 175)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15608, 771, 115)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(13166, 524, 76)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(11151, 357, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(9475, 244, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(8076, 167, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(6901, 114, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(5911, 78, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5074, 54, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(4364, 37, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(3759, 26, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3244, 18, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2804, 12, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2426, 8, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2102, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1824, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1584, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1377, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1198, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1043, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(909, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(793, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(692, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(605, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(528, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(462, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(404, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(354, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(310, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(272, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(238, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(209, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(183, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(161, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(141, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(124, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(109, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(96, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(84, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(74, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(65, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(57, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(51, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(45, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(39, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(35, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(30, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(27, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(24, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(21, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(18, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(16, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2695 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+16 of 50 (32% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 423/4096        20304/196608   (10.3%) 
+brushes               7326/16384       87912/196608   (44.7%) 
+brushsides           60456/65536      483648/524288   (92.2%) VERY FULL!
+planes               40612/65536      812240/1310720  (62.0%) 
+vertexes             44520/65536      534240/786432   (67.9%) 
+nodes                 9739/65536      311648/2097152  (14.9%) 
+texinfos              6772/12288      487584/884736   (55.1%) 
+texdata                653/2048        20896/65536    (31.9%) 
+dispinfos               65/0           11440/0        ( 0.0%) 
+disp_verts            3249/0           64980/0        ( 0.0%) 
+disp_tris             4864/0            9728/0        ( 0.0%) 
+disp_lmsamples       62172/0           62172/0        ( 0.0%) 
+faces                25539/65536     1430184/3670016  (39.0%) 
+hdr faces            25539/65536     1430184/3670016  (39.0%) 
+origfaces            19235/65536     1077160/3670016  (29.4%) 
+leaves               10163/65536      325216/2097152  (15.5%) 
+leaffaces            29667/65536       59334/131072   (45.3%) 
+leafbrushes          12586/65536       25172/131072   (19.2%) 
+areas                   10/1024           80/8192     ( 1.0%) 
+surfedges           202293/512000     809172/2048000  (39.5%) 
+edges               125769/256000     503076/1024000  (49.1%) 
+LDR worldlights        515/8192        45320/720896   ( 6.3%) 
+HDR worldlights        515/8192        45320/720896   ( 6.3%) 
+leafwaterdata           16/32768         192/393216   ( 0.0%) 
+waterstrips           2603/32768       26030/327680   ( 7.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         49191/65536       98382/131072   (75.1%) 
+cubemapsamples          51/1024          816/16384    ( 5.0%) 
+overlays                55/512         19360/180224   (10.7%) 
+LDR lightdata         [variable]     9463464/0        ( 0.0%) 
+HDR lightdata         [variable]     9463464/0        ( 0.0%) 
+visdata               [variable]      536597/16777216 ( 3.2%) 
+entdata               [variable]      570302/393216   (145.0%) VERY FULL!
+LDR ambient table    10163/65536       40652/262144   (15.5%) 
+HDR ambient table    10163/65536       40652/262144   (15.5%) 
+LDR leaf ambient     29899/65536      837172/1835008  (45.6%) 
+HDR leaf ambient     29436/65536      824208/1835008  (44.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24368    ( 0.0%) 
+pakfile               [variable]      536673/0        ( 0.0%) 
+physics               [variable]     2900258/4194304  (69.1%) 
+physics terrain       [variable]       14311/1048576  ( 1.4%) 
+
+Level flags = 0
+
+Total triangle count: 72782
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+1 minute, 48 seconds elapsed
