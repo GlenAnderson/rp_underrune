@@ -21788,3 +21788,452 @@ Level flags = 0
 Total triangle count: 72782
 Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
 1 minute, 48 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: AJACKS/BEN_BLACKMETAL
+Material not found!: GASTER_DOOR/1
+Material not found!: GASTER_DOOR/4
+Material not found!: GASTER_DOOR/2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (10576.00 9632.00 4648.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 10752.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 11264.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 11264.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 9728.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 8704.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 7680.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12288.0 7504.0 -3552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12288.0 8016.0 -3552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 5118 detail faces...done (2)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (4)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_09 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_09 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (2898699 bytes)
+Error! prop_static using model "models/props/cs_assault/handtruck.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_assault/handtruck.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10493 texinfos to 6836
+Reduced 754 texdatas to 653 (29742 bytes to 25468)
+Writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+20 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: AJACKS/BEN_BLACKMETAL
+Material not found!: GASTER_DOOR/1
+Material not found!: GASTER_DOOR/4
+Material not found!: GASTER_DOOR/2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (10576.00 9632.00 4648.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 10752.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 11264.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 11264.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 9728.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 8704.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 7680.0 -3144.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12288.0 7504.0 -3552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12288.0 8016.0 -3552.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 5118 detail faces...done (1)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (4)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_09 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_09 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (2898699 bytes)
+Error! prop_static using model "models/props/cs_assault/handtruck.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_assault/handtruck.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10493 texinfos to 6836
+Reduced 754 texdatas to 653 (29742 bytes to 25468)
+Writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+19 seconds elapsed
+
+
+
+16 threads
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt
+LoadPortals: couldn't read c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+No vis information, direct lighting only.
+25918 faces
+24 degenerate faces
+3751497 square feet [540215552.00 square inches]
+65 Displacements
+55104 Square Feet [7934977.50 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+517 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0512 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+16 of 50 (32% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 422/4096        20256/196608   (10.3%) 
+brushes               7326/16384       87912/196608   (44.7%) 
+brushsides           60326/65536      482608/524288   (92.1%) VERY FULL!
+planes               40330/65536      806600/1310720  (61.5%) 
+vertexes             51144/65536      613728/786432   (78.0%) 
+nodes                16069/65536      514208/2097152  (24.5%) 
+texinfos              6836/12288      492192/884736   (55.6%) 
+texdata                653/2048        20896/65536    (31.9%) 
+dispinfos               65/0           11440/0        ( 0.0%) 
+disp_verts            3249/0           64980/0        ( 0.0%) 
+disp_tris             4864/0            9728/0        ( 0.0%) 
+disp_lmsamples       62172/0           62172/0        ( 0.0%) 
+faces                25918/65536     1451408/3670016  (39.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            19441/65536     1088696/3670016  (29.7%) 
+leaves               16492/65536      527744/2097152  (25.2%) 
+leaffaces            30922/65536       61844/131072   (47.2%) 
+leafbrushes          11701/65536       23402/131072   (17.9%) 
+areas                   10/1024           80/8192     ( 1.0%) 
+surfedges           204911/512000     819644/2048000  (40.0%) 
+edges               127923/256000     511692/1024000  (50.0%) 
+LDR worldlights        516/8192        45408/720896   ( 6.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata           16/32768         192/393216   ( 0.0%) 
+waterstrips           3131/32768       31310/327680   ( 9.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         58002/65536      116004/131072   (88.5%) VERY FULL!
+cubemapsamples          54/1024          864/16384    ( 5.3%) 
+overlays                54/512         19008/180224   (10.5%) 
+LDR lightdata         [variable]     9715252/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      569794/393216   (144.9%) VERY FULL!
+LDR ambient table    16492/65536       65968/262144   (25.2%) 
+HDR ambient table    16492/65536       65968/262144   (25.2%) 
+LDR leaf ambient     77652/65536     2174256/1835008  (118.5%) VERY FULL!
+HDR leaf ambient     16492/65536      461776/1835008  (25.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24272    ( 0.0%) 
+pakfile               [variable]      563086/0        ( 0.0%) 
+physics               [variable]     2898699/4194304  (69.1%) 
+physics terrain       [variable]       14311/1048576  ( 1.4%) 
+
+Level flags = 0
+
+Total triangle count: 73822
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+2 minutes, 43 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+No vis information, direct lighting only.
+25918 faces
+24 degenerate faces
+3751497 square feet [540215552.00 square inches]
+65 Displacements
+55104 Square Feet [7934977.50 Square Inches]
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+517 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0602 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+16 of 50 (32% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 422/4096        20256/196608   (10.3%) 
+brushes               7326/16384       87912/196608   (44.7%) 
+brushsides           60326/65536      482608/524288   (92.1%) VERY FULL!
+planes               40330/65536      806600/1310720  (61.5%) 
+vertexes             51144/65536      613728/786432   (78.0%) 
+nodes                16069/65536      514208/2097152  (24.5%) 
+texinfos              6836/12288      492192/884736   (55.6%) 
+texdata                653/2048        20896/65536    (31.9%) 
+dispinfos               65/0           11440/0        ( 0.0%) 
+disp_verts            3249/0           64980/0        ( 0.0%) 
+disp_tris             4864/0            9728/0        ( 0.0%) 
+disp_lmsamples       62172/0           62172/0        ( 0.0%) 
+faces                25918/65536     1451408/3670016  (39.5%) 
+hdr faces            25918/65536     1451408/3670016  (39.5%) 
+origfaces            19441/65536     1088696/3670016  (29.7%) 
+leaves               16492/65536      527744/2097152  (25.2%) 
+leaffaces            30922/65536       61844/131072   (47.2%) 
+leafbrushes          11701/65536       23402/131072   (17.9%) 
+areas                   10/1024           80/8192     ( 1.0%) 
+surfedges           204911/512000     819644/2048000  (40.0%) 
+edges               127923/256000     511692/1024000  (50.0%) 
+LDR worldlights        516/8192        45408/720896   ( 6.3%) 
+HDR worldlights        516/8192        45408/720896   ( 6.3%) 
+leafwaterdata           16/32768         192/393216   ( 0.0%) 
+waterstrips           3131/32768       31310/327680   ( 9.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         58002/65536      116004/131072   (88.5%) VERY FULL!
+cubemapsamples          54/1024          864/16384    ( 5.3%) 
+overlays                54/512         19008/180224   (10.5%) 
+LDR lightdata         [variable]     9715252/0        ( 0.0%) 
+HDR lightdata         [variable]     9715252/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      569794/393216   (144.9%) VERY FULL!
+LDR ambient table    16492/65536       65968/262144   (25.2%) 
+HDR ambient table    16492/65536       65968/262144   (25.2%) 
+LDR leaf ambient     77652/65536     2174256/1835008  (118.5%) VERY FULL!
+HDR leaf ambient     76724/65536     2148272/1835008  (117.1%) VERY FULL!
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/24272    ( 0.0%) 
+pakfile               [variable]      563086/0        ( 0.0%) 
+physics               [variable]     2898699/4194304  (69.1%) 
+physics terrain       [variable]       14311/1048576  ( 1.4%) 
+
+Level flags = 0
+
+Total triangle count: 73822
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+2 minutes, 48 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: AJACKS/BEN_BLACKMETAL
+Material not found!: GASTER_DOOR/1
+Material not found!: GASTER_DOOR/4
+Material not found!: GASTER_DOOR/2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 5118 detail faces...done (1)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (4)
+writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_09 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_09 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (2898339 bytes)
+Error! prop_static using model "models/props/cs_assault/handtruck.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_assault/handtruck.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10493 texinfos to 6814
+Reduced 754 texdatas to 651 (29742 bytes to 25376)
+Writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+22 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: AJACKS/BEN_BLACKMETAL
+Material not found!: GASTER_DOOR/1
+Material not found!: GASTER_DOOR/4
+Material not found!: GASTER_DOOR/2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 5118 detail faces...done (1)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
