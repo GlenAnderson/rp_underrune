@@ -24165,3 +24165,174 @@ Level flags = 0
 Total triangle count: 73073
 Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
 1 minute, 48 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: AJACKS/BEN_BLACKMETAL
+Material not found!: GASTER_DOOR/1
+Material not found!: GASTER_DOOR/4
+Material not found!: GASTER_DOOR/2
+fixing up env_cubemap materials on brush sides...
+Multiple references for cubemap on texture maps/rp_snowdintown/stone/stonefloor006a_12264_7648_4640!!!
+Multiple references for cubemap on texture maps/rp_snowdintown/stone/stonefloor006a_12264_7648_4640!!!
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 5122 detail faces...done (1)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (4)
+writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_09 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_09 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (4) (2935515 bytes)
+Error! prop_static using model "models/props/cs_assault/handtruck.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_assault/handtruck.mdl"!
+Static prop models/custom_models/lights/light11.mdl outside the map (12336.00, 7704.00, 4664.00)
+Static prop models/custom_models/lights/light11.mdl outside the map (12336.00, 7592.00, 4664.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10785 texinfos to 6907
+Reduced 781 texdatas to 674 (31017 bytes to 26509)
+Writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+22 seconds elapsed
+
+
+
+16 threads
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt
+2563 portalclusters
+6500 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 73952 visible clusters (5.86%)
+Total clusters visible: 1261813
+Average clusters visible: 492
+Building PAS...
+Average clusters audible: 801
+visdatasize:544463  compressed from 1681328
+writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+25743 faces
+23 degenerate faces
+3696511 square feet [532297664.00 square inches]
+65 Displacements
+55103 Square Feet [7934975.50 Square Inches]
+25720 patches before subdivision
+Zero area child patch at around 1956.083374 6541.000000 -8444.002930
+310418 patches after subdivision
+light has _fifty_percent_distance of 256.000000 but _zero_percent_distance of 0.000000
+534 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 40998124, max 2442
+transfer lists: 312.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3247587, 1722275, 2691316)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1075882, 331774, 648923)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(464345, 114166, 225014)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(234475, 55684, 82015)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(139051, 32286, 32006)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(92754, 20110, 13122)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(67471, 12954, 5786)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(51725, 8493, 2759)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(41003, 5627, 1431)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(33174, 3755, 798)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(27212, 2519, 472)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(22538, 1697, 291)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(18803, 1147, 184)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(15777, 778, 119)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(13301, 529, 77)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(11258, 360, 51)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(9563, 246, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(8147, 168, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(6959, 115, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(5959, 79, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5113, 54, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(4396, 37, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(3786, 26, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3267, 18, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(2822, 12, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2442, 8, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2115, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(1835, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1593, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1385, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1204, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1049, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(914, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(797, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(696, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(608, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(531, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(464, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(406, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(356, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(312, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(273, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(239, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(210, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(184, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(162, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(142, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(125, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(110, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(96, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(85, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(75, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(58, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(51, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(45, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(39, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(35, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(31, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(27, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(24, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(21, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(18, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(16, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1794 sec>
+0...1...2...
