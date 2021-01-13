@@ -27711,3 +27711,801 @@ Level flags = 0
 Total triangle count: 36168
 Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
 41 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: AJACKS/BEN_BLACKMETAL
+Material not found!: GASTER_DOOR/1
+Material not found!: GASTER_DOOR/4
+Material not found!: GASTER_DOOR/2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1596 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (1)
+writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_09 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_09 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (1539222 bytes)
+Error! prop_static using model "models/props/cs_assault/handtruck.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_assault/handtruck.mdl"!
+Static prop models/custom_models/lights/light11.mdl outside the map (12336.00, 7704.00, 4664.00)
+Static prop models/custom_models/lights/light11.mdl outside the map (12336.00, 7592.00, 4664.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6612 texinfos to 3362
+Reduced 534 texdatas to 461 (21191 bytes to 18138)
+Writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+10 seconds elapsed
+
+
+
+16 threads
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt
+1215 portalclusters
+2528 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 13929 visible clusters (7.63%)
+Total clusters visible: 182456
+Average clusters visible: 150
+Building PAS...
+Average clusters audible: 356
+visdatasize:127182  compressed from 369360
+writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+13054 faces
+4 degenerate faces
+1478755 square feet [212940768.00 square inches]
+10 Displacements
+10750 Square Feet [1548101.75 Square Inches]
+13050 patches before subdivision
+134988 patches after subdivision
+377 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12298866, max 635
+transfer lists:  93.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(2160786, 939573, 1597889)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(814333, 252273, 515992)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(366136, 98679, 191377)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(189400, 51759, 72187)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(116468, 31289, 28582)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(81371, 20111, 11801)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(62011, 13278, 5219)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(49544, 8883, 2490)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(40638, 5987, 1291)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(33806, 4055, 720)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(28363, 2756, 426)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(23932, 1880, 263)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(20279, 1285, 166)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(17242, 881, 107)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14705, 606, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(12574, 417, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(10778, 288, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(9259, 199, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(7970, 138, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(6874, 96, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5939, 67, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(5140, 47, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4456, 32, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3868, 23, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(3362, 16, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2926, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2549, 8, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(2224, 6, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1942, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1697, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1485, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1300, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(1139, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(999, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(876, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(770, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(676, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(594, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(523, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(460, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(405, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(357, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(315, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(277, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(245, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(216, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(191, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(168, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(149, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(131, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(116, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(103, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(91, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(80, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(71, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(63, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(56, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(49, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(44, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(39, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(34, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(30, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(27, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(24, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(21, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(19, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(17, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0834 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+16 of 50 (32% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 351/4096        16848/196608   ( 8.6%) 
+brushes               3953/16384       47436/196608   (24.1%) 
+brushsides           30456/65536      243648/524288   (46.5%) 
+planes               21180/65536      423600/1310720  (32.3%) 
+vertexes             22843/65536      274116/786432   (34.9%) 
+nodes                 6337/65536      202784/2097152  ( 9.7%) 
+texinfos              3362/12288      242064/884736   (27.4%) 
+texdata                461/2048        14752/65536    (22.5%) 
+dispinfos               10/0            1760/0        ( 0.0%) 
+disp_verts             698/0           13960/0        ( 0.0%) 
+disp_tris             1088/0            2176/0        ( 0.0%) 
+disp_lmsamples       27368/0           27368/0        ( 0.0%) 
+faces                13054/65536      731024/3670016  (19.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10044/65536      562464/3670016  (15.3%) 
+leaves                6689/65536      214048/2097152  (10.2%) 
+leaffaces            14637/65536       29274/131072   (22.3%) 
+leafbrushes           6652/65536       13304/131072   (10.2%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges           103132/512000     412528/2048000  (20.1%) 
+edges                63839/256000     255356/1024000  (24.9%) 
+LDR worldlights        377/8192        33176/720896   ( 4.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata           11/32768         132/393216   ( 0.0%) 
+waterstrips           1023/32768       10230/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         19029/65536       38058/131072   (29.0%) 
+cubemapsamples          56/1024          896/16384    ( 5.5%) 
+overlays                12/512          4224/180224   ( 2.3%) 
+LDR lightdata         [variable]     5050496/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      127182/16777216 ( 0.8%) 
+entdata               [variable]      447861/393216   (113.9%) VERY FULL!
+LDR ambient table     6689/65536       26756/262144   (10.2%) 
+HDR ambient table     6689/65536       26756/262144   (10.2%) 
+LDR leaf ambient     15192/65536      425376/1835008  (23.2%) 
+HDR leaf ambient      6689/65536      187292/1835008  (10.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12806    ( 0.0%) 
+pakfile               [variable]      539019/0        ( 0.0%) 
+physics               [variable]     1539222/4194304  (36.7%) 
+physics terrain       [variable]        2072/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 36138
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+39 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+13054 faces
+4 degenerate faces
+1478755 square feet [212940768.00 square inches]
+10 Displacements
+10750 Square Feet [1548101.75 Square Inches]
+13050 patches before subdivision
+134988 patches after subdivision
+377 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12298866, max 635
+transfer lists:  93.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(617328, 371917, 469824)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(264749, 128316, 96371)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(165799, 71872, 34448)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(117196, 45192, 14861)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(89918, 29560, 7335)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(71614, 19628, 3967)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(58386, 13135, 2306)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(48198, 8837, 1407)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(40131, 5970, 885)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(33613, 4047, 567)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(28289, 2753, 368)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(23903, 1878, 240)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(20267, 1284, 157)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(17238, 881, 104)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14703, 605, 68)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(12573, 417, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(10777, 288, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(9259, 199, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(7970, 138, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(6874, 96, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5939, 67, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(5140, 47, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4456, 32, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3868, 23, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(3362, 16, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2926, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2549, 8, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(2224, 6, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1942, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1697, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1485, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1300, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(1139, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(999, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(876, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(770, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(676, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(594, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(523, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(460, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(405, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(357, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(315, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(277, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(245, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(216, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(191, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(168, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(149, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(131, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(116, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(103, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(91, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(80, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(71, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(63, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(56, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(49, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(44, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(39, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(34, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(30, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(27, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(24, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(21, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(19, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(17, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(15, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+16 of 50 (32% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 351/4096        16848/196608   ( 8.6%) 
+brushes               3953/16384       47436/196608   (24.1%) 
+brushsides           30456/65536      243648/524288   (46.5%) 
+planes               21180/65536      423600/1310720  (32.3%) 
+vertexes             22843/65536      274116/786432   (34.9%) 
+nodes                 6337/65536      202784/2097152  ( 9.7%) 
+texinfos              3362/12288      242064/884736   (27.4%) 
+texdata                461/2048        14752/65536    (22.5%) 
+dispinfos               10/0            1760/0        ( 0.0%) 
+disp_verts             698/0           13960/0        ( 0.0%) 
+disp_tris             1088/0            2176/0        ( 0.0%) 
+disp_lmsamples       27368/0           27368/0        ( 0.0%) 
+faces                13054/65536      731024/3670016  (19.9%) 
+hdr faces            13054/65536      731024/3670016  (19.9%) 
+origfaces            10044/65536      562464/3670016  (15.3%) 
+leaves                6689/65536      214048/2097152  (10.2%) 
+leaffaces            14637/65536       29274/131072   (22.3%) 
+leafbrushes           6652/65536       13304/131072   (10.2%) 
+areas                    9/1024           72/8192     ( 0.9%) 
+surfedges           103132/512000     412528/2048000  (20.1%) 
+edges                63839/256000     255356/1024000  (24.9%) 
+LDR worldlights        377/8192        33176/720896   ( 4.6%) 
+HDR worldlights        377/8192        33176/720896   ( 4.6%) 
+leafwaterdata           11/32768         132/393216   ( 0.0%) 
+waterstrips           1023/32768       10230/327680   ( 3.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         19029/65536       38058/131072   (29.0%) 
+cubemapsamples          56/1024          896/16384    ( 5.5%) 
+overlays                12/512          4224/180224   ( 2.3%) 
+LDR lightdata         [variable]     5050496/0        ( 0.0%) 
+HDR lightdata         [variable]     5050496/0        ( 0.0%) 
+visdata               [variable]      127182/16777216 ( 0.8%) 
+entdata               [variable]      447861/393216   (113.9%) VERY FULL!
+LDR ambient table     6689/65536       26756/262144   (10.2%) 
+HDR ambient table     6689/65536       26756/262144   (10.2%) 
+LDR leaf ambient     15192/65536      425376/1835008  (23.2%) 
+HDR leaf ambient     14854/65536      415912/1835008  (22.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12806    ( 0.0%) 
+pakfile               [variable]      539019/0        ( 0.0%) 
+physics               [variable]     1539222/4194304  (36.7%) 
+physics terrain       [variable]        2072/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 36138
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+41 seconds elapsed
+
+
+
+materialPath: C:\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: AJACKS/BEN_BLACKMETAL
+Material not found!: GASTER_DOOR/1
+Material not found!: GASTER_DOOR/4
+Material not found!: GASTER_DOOR/2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 5000 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (4)
+writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day02_09 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day02_09 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (3) (2667380 bytes)
+Error! prop_static using model "models/props/cs_assault/handtruck.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_assault/handtruck.mdl"!
+Static prop models/custom_models/lights/light11.mdl outside the map (12336.00, 7704.00, 4664.00)
+Static prop models/custom_models/lights/light11.mdl outside the map (12336.00, 7592.00, 4664.00)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 10649 texinfos to 6692
+Reduced 754 texdatas to 653 (30405 bytes to 26261)
+Writing C:\Users\glen2_pi5d049\Google Drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+28 seconds elapsed
+
+
+
+16 threads
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+reading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.prt
+2439 portalclusters
+6212 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 63126 visible clusters (5.21%)
+Total clusters visible: 1212476
+Average clusters visible: 497
+Building PAS...
+Average clusters audible: 765
+visdatasize:497448  compressed from 1521936
+writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+24392 faces
+24 degenerate faces
+3610402 square feet [519897920.00 square inches]
+37 Displacements
+61105 Square Feet [8799145.00 Square Inches]
+24368 patches before subdivision
+Zero area child patch at around 2128.083496 6645.000000 -8444.000000
+Zero area child patch at around 4563.435059 7504.250977 -8568.000000
+Zero area child patch at around 4721.624023 7425.099121 -8568.000000
+295016 patches after subdivision
+504 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 39298913, max 2403
+transfer lists: 299.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3082803, 1740084, 2603513)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1014105, 341815, 620522)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(439704, 117326, 215262)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(223738, 56772, 78296)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(134400, 32874, 30505)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(91058, 20599, 12448)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(67271, 13388, 5453)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(52312, 8869, 2579)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(41985, 5939, 1326)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(34341, 4006, 734)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(28440, 2717, 432)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(23761, 1850, 265)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(19985, 1264, 168)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(16897, 866, 108)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14350, 596, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(12232, 410, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(10462, 283, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(8974, 196, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(7717, 136, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(6651, 95, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5745, 66, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(4971, 46, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4309, 32, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3741, 22, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(3253, 16, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2832, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2468, 8, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(2154, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1881, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1645, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1439, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1261, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(1105, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(969, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(851, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(747, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(657, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(577, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(508, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(447, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(394, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(347, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(306, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(270, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(238, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(210, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(185, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(164, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(145, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(128, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(113, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(100, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(88, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(78, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(69, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(61, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(54, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(48, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(43, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(38, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(33, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(30, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(23, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(21, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(18, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(16, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1931 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+16 of 50 (32% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 417/4096        20016/196608   (10.2%) 
+brushes               6697/16384       80364/196608   (40.9%) 
+brushsides           55794/65536      446352/524288   (85.1%) VERY FULL!
+planes               38806/65536      776120/1310720  (59.2%) 
+vertexes             42468/65536      509616/786432   (64.8%) 
+nodes                 9408/65536      301056/2097152  (14.4%) 
+texinfos              6692/12288      481824/884736   (54.5%) 
+texdata                653/2048        20896/65536    (31.9%) 
+dispinfos               37/0            6512/0        ( 0.0%) 
+disp_verts            2269/0           45380/0        ( 0.0%) 
+disp_tris             3488/0            6976/0        ( 0.0%) 
+disp_lmsamples       53180/0           53180/0        ( 0.0%) 
+faces                24392/65536     1365952/3670016  (37.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            18203/65536     1019368/3670016  (27.8%) 
+leaves                9826/65536      314432/2097152  (15.0%) 
+leaffaces            28826/65536       57652/131072   (44.0%) 
+leafbrushes          11670/65536       23340/131072   (17.8%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           192722/512000     770888/2048000  (37.6%) 
+edges               119887/256000     479548/1024000  (46.8%) 
+LDR worldlights        503/8192        44264/720896   ( 6.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata           12/32768         144/393216   ( 0.0%) 
+waterstrips           2532/32768       25320/327680   ( 7.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         47583/65536       95166/131072   (72.6%) 
+cubemapsamples          66/1024         1056/16384    ( 6.4%) 
+overlays                13/512          4576/180224   ( 2.5%) 
+LDR lightdata         [variable]     9579296/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      497448/16777216 ( 3.0%) 
+entdata               [variable]      598571/393216   (152.2%) VERY FULL!
+LDR ambient table     9826/65536       39304/262144   (15.0%) 
+HDR ambient table     9826/65536       39304/262144   (15.0%) 
+LDR leaf ambient     28827/65536      807156/1835008  (44.0%) 
+HDR leaf ambient      9826/65536      275128/1835008  (15.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/29616    ( 0.0%) 
+pakfile               [variable]      661964/0        ( 0.0%) 
+physics               [variable]     2667380/4194304  (63.6%) 
+physics terrain       [variable]        9173/1048576  ( 0.9%) 
+
+Level flags = 0
+
+Total triangle count: 69735
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+2 minutes, 2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+PREP OK
+24392 faces
+24 degenerate faces
+3610402 square feet [519897920.00 square inches]
+37 Displacements
+61105 Square Feet [8799145.00 Square Inches]
+24368 patches before subdivision
+Zero area child patch at around 2128.083496 6645.000000 -8444.000000
+Zero area child patch at around 4563.435059 7504.250977 -8568.000000
+Zero area child patch at around 4721.624023 7425.099121 -8568.000000
+295016 patches after subdivision
+504 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 39298913, max 2403
+transfer lists: 299.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1281779, 896704, 1037860)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(435498, 196984, 164878)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(232794, 87244, 51736)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(148834, 49307, 19668)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(106199, 30733, 8922)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(80157, 19888, 4526)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(62799, 13111, 2516)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(50327, 8742, 1488)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(40988, 5873, 918)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(33768, 3968, 581)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(28070, 2694, 374)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(23498, 1836, 243)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(19788, 1255, 159)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(16746, 861, 104)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(14231, 592, 68)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(12137, 408, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(10386, 282, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(8912, 195, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(7666, 135, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(6610, 94, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(5711, 66, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(4943, 46, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(4286, 32, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(3722, 22, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(3236, 16, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(2818, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(2457, 8, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(2144, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(1873, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(1638, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(1433, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(1256, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(1101, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(966, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(848, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(745, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(654, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(575, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(506, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(446, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(393, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(346, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(305, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(269, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(237, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(209, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(185, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(163, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(144, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(127, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(113, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(100, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(88, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(78, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(69, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(61, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(54, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(48, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(42, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(38, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(33, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(29, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(26, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(23, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(21, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(18, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #67 added RGB(16, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #68 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #69 added RGB(13, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #70 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #71 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #72 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #73 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #74 added RGB(7, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #75 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #76 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #77 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #78 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #79 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #80 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #81 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #82 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #83 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #84 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #85 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #86 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #87 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #88 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #89 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #90 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #91 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2457 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+16 of 50 (32% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 417/4096        20016/196608   (10.2%) 
+brushes               6697/16384       80364/196608   (40.9%) 
+brushsides           55794/65536      446352/524288   (85.1%) VERY FULL!
+planes               38806/65536      776120/1310720  (59.2%) 
+vertexes             42468/65536      509616/786432   (64.8%) 
+nodes                 9408/65536      301056/2097152  (14.4%) 
+texinfos              6692/12288      481824/884736   (54.5%) 
+texdata                653/2048        20896/65536    (31.9%) 
+dispinfos               37/0            6512/0        ( 0.0%) 
+disp_verts            2269/0           45380/0        ( 0.0%) 
+disp_tris             3488/0            6976/0        ( 0.0%) 
+disp_lmsamples       53180/0           53180/0        ( 0.0%) 
+faces                24392/65536     1365952/3670016  (37.2%) 
+hdr faces            24392/65536     1365952/3670016  (37.2%) 
+origfaces            18203/65536     1019368/3670016  (27.8%) 
+leaves                9826/65536      314432/2097152  (15.0%) 
+leaffaces            28826/65536       57652/131072   (44.0%) 
+leafbrushes          11670/65536       23340/131072   (17.8%) 
+areas                   11/1024           88/8192     ( 1.1%) 
+surfedges           192722/512000     770888/2048000  (37.6%) 
+edges               119887/256000     479548/1024000  (46.8%) 
+LDR worldlights        503/8192        44264/720896   ( 6.1%) 
+HDR worldlights        503/8192        44264/720896   ( 6.1%) 
+leafwaterdata           12/32768         144/393216   ( 0.0%) 
+waterstrips           2532/32768       25320/327680   ( 7.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         47583/65536       95166/131072   (72.6%) 
+cubemapsamples          66/1024         1056/16384    ( 6.4%) 
+overlays                13/512          4576/180224   ( 2.5%) 
+LDR lightdata         [variable]     9579296/0        ( 0.0%) 
+HDR lightdata         [variable]     9579296/0        ( 0.0%) 
+visdata               [variable]      497448/16777216 ( 3.0%) 
+entdata               [variable]      598571/393216   (152.2%) VERY FULL!
+LDR ambient table     9826/65536       39304/262144   (15.0%) 
+HDR ambient table     9826/65536       39304/262144   (15.0%) 
+LDR leaf ambient     28827/65536      807156/1835008  (44.0%) 
+HDR leaf ambient     28287/65536      792036/1835008  (43.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/29616    ( 0.0%) 
+pakfile               [variable]      661964/0        ( 0.0%) 
+physics               [variable]     2667380/4194304  (63.6%) 
+physics terrain       [variable]        9173/1048576  ( 0.9%) 
+
+Level flags = 0
+
+Total triangle count: 69735
+Writing c:\users\glen2_pi5d049\google drive\documents\the-public\hammer\maps\rp_snowdintown\rp_snowdintown.bsp
+2 minutes, 13 seconds elapsed
